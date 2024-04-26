@@ -1,0 +1,2589 @@
+
+*---------------------- HEADER FIELD
+
+#PLAYER 1
+#GENRE JP Girl's Melodic Punk Rock
+#TITLE Misty DASH !
+#ARTIST RainDrops
+#BPM 170
+#PLAYLEVEL 3
+#RANK 3
+
+#SUBTITLE [GCS 2 DLC 16]
+#STAGEFILE kody_title.png
+#BANNER kody_banner.png
+
+#DIFFICULTY 3
+#TOTAL 500
+#LNTYPE 1
+
+#WAV01 MUTE.wav
+#WAV02 str-01.wav
+#WAV03 str-02.wav
+#WAV04 str-03.wav
+#WAV05 str-04.wav
+#WAV06 thunder.wav
+#WAV07 Gt01-scrape.wav
+#WAV08 Gt01-D01.wav
+#WAV09 Gt01-D02.wav
+#WAV0A Gt01-D02.wav
+#WAV0B Gt01-D03.wav
+#WAV0C Gt01-E01.wav
+#WAV0D Gt01-E02.wav
+#WAV0E Gt01-E02.wav
+#WAV0F Gt01-E03.wav
+#WAV10 Gt01-C#01.wav
+#WAV11 Gt01-C#02.wav
+#WAV12 Gt01-C#02.wav
+#WAV13 Gt01-C#03.wav
+#WAV14 Gt01-F#01.wav
+#WAV15 Gt01-F#02.wav
+#WAV16 Gt01-F#02.wav
+#WAV17 Gt01-F#03.wav
+#WAV18 bass-D.wav
+#WAV19 bass-D.wav
+#WAV1A bass-E.wav
+#WAV1B bass-E.wav
+#WAV1C bass-C#.wav
+#WAV1D bass-C#.wav
+#WAV1E bass-F#.wav
+#WAV1F bass-F#.wav
+#WAV20 drum-kick.wav
+#WAV21 drum-snare.wav
+#WAV22 drum-hat.wav
+#WAV23 drum-ride.wav
+#WAV24 drum-tom-h.wav
+#WAV25 drum-tom-l.wav
+#WAV26 drum-cym-L.wav
+#WAV27 drum-cym-R.wav
+#WAV28 vocal-01.wav
+#WAV29 vocal-02.wav
+#WAV2A vocal-03.wav
+#WAV2B vocal-04.wav
+#WAV2C vocal-05.wav
+#WAV2D vocal-06.wav
+#WAV2E vocal-07.wav
+#WAV2F vocal-08.wav
+#WAV30 vocal-09.wav
+#WAV31 vocal-10.wav
+#WAV32 vocal-11.wav
+#WAV33 vocal-12.wav
+#WAV34 vocal-efx01-01.wav
+#WAV35 vocal-efx01-02.wav
+#WAV36 vocal-efx02-01.wav
+#WAV37 vocal-efx02-02.wav
+#WAV38 Gt01-B02.wav
+#WAV39 Gt01-B02.wav
+#WAV3A Gt01-B01.wav
+#WAV3B Gt01-A02.wav
+#WAV3C Gt01-A02.wav
+#WAV3D Gt01-A01.wav
+#WAV3E bass-B.wav
+#WAV3F bass-B.wav
+#WAV40 bass-A.wav
+#WAV41 bass-A.wav
+#WAV42 drum-hat.wav
+#WAV43 drum-kick.wav
+#WAV44 drum-ride.wav
+#WAV45 drum-snare.wav
+#WAV46 drum-tom-h.wav
+#WAV47 drum-tom-l.wav
+#WAV48 pf01 - A6.wav
+#WAV49 pf01 - B6.wav
+#WAV4A pf01 - C#7.wav
+#WAV4B pf01 - D7.wav
+#WAV4C pf01 - E7.wav
+#WAV4D pf01 - F#7.wav
+#WAV4E pf01 - F#7.wav
+#WAV4F pf01 - G#7p.wav
+#WAV50 pf01 - G#7.wav
+#WAV51 pf01 - A7.wav
+#WAV52 pf01 - A#7p.wav
+#WAV53 pf01 - B7.wav
+#WAV54 pf01 - C#8.wav
+#WAV55 pf01 - F#5.wav
+#WAV56 pf01 - G#5.wav
+#WAV57 pf01 - A5.wav
+#WAV58 pf01 - B5.wav
+#WAV59 pf01 - C#6.wav
+#WAV5A pf01 - D6.wav
+#WAV5B pf01 - E6.wav
+#WAV5C pf01 - F#6.wav
+#WAV5D pf01 - G#6.wav
+#WAV5E pf01 - G#8.wav
+#WAV5F pf01 - 1.wav
+#WAV60 pf01 - 2.wav
+#WAV61 pf01 - 3.wav
+#WAV62 pf01 - 4.wav
+#WAV63 pf01 - 5.wav
+#WAV64 pf01 - 6.wav
+#WAV65 pf01 - E7.wav
+#WAV66 pf01 - F#7.wav
+#WAV67 drum-cym-L-short.wav
+#WAV68 pf01 - F#5.wav
+#WAV69 pf01 - G#5.wav
+#WAV6A pf01 - A5.wav
+#WAV6B pf01 - B5.wav
+#WAV6C pf01 - C#6.wav
+#WAV6D pf01 - D6.wav
+#WAV6E pf01 - E6.wav
+#WAV6F pf01 - F#6.wav
+#WAV70 synth - A6-3.wav
+#WAV71 synth - D6-3.wav
+#WAV72 synth - F#6-3.wav
+#WAV73 synth - G#6-3.wav
+#WAV74 synth - A6-3.wav
+#WAV75 synth - E6-3.wav
+#WAV76 synth - C#6-3.wav
+#WAV77 synth - B5-2.wav
+#WAV78 synth - A5-2.wav
+#WAV79 synth - B6-3.wav
+#WAV7A synth - C#6-2.wav
+#WAV7B synth - E6-2.wav
+#WAV7C synth - G#6-2.wav
+#WAV7D synth - C#6-1.wav
+#WAV7E synth - B5-1.wav
+#WAV7F synth - A5-1.wav
+#WAV80 synth - E5-1.wav
+#WAV81 synth - C#5-2.wav
+#WAV82 synth - D5-2.wav
+#WAV83 synth - D6-2.wav
+#WAV84 synth - F#5-2.wav
+#WAV85 synth - F#6-2.wav
+#WAV86 synth - G#5-2.wav
+#WAV87 synth - A5-2.wav
+#WAV88 synth - B5-2.wav
+#WAV89 synth - C#6-2.wav
+#WAV8A synth - E5-2.wav
+#WAV8B synth - A6-2.wav
+#WAV8C Gt02-C#6.wav
+#WAV8D Gt02-F#5.wav
+#WAV8E Gt02-F#5.wav
+#WAV8F Gt02-A5.wav
+#WAV90 Gt02-B5.wav
+#WAV91 Gt02-D6.wav
+#WAV92 Gt02-G#5.wav
+#WAV93 Gt02-E5.wav
+#WAV94 Gt02-E5.wav
+#WAV95 Gt02-C#5.wav
+#WAV96 Gt02-C#5.wav
+#WAV97 Gt02-A4.wav
+#WAV98 Gt02-A6.wav
+#WAV99 Gt03-A5.wav
+#WAV9A Gt03-C#5.wav
+#WAV9B Gt03-C#5.wav
+#WAV9C Gt03-F#5.wav
+#WAV9D Gt03-G#5.wav
+#WAV9E Gt03-B5.wav
+#WAV9F Gt03-E5.wav
+#WAVA0 Gt03-G#4.wav
+#WAVA1 Gt03-G#4.wav
+#WAVA2 Gt03-D5.wav
+#WAVA3 Gt03-D5.wav
+#WAVA4 Gt03-B4.wav
+#WAVA5 Gt03-B4.wav
+#WAVA6 Gt03-ha-B4.wav
+#WAVD8 Gt01-last.wav
+#WAVD9 bass-last.wav
+#WAVDA Gt02-last.wav
+#BMP01 kody_ami_BFROU.png
+#BMP02 kody_A 01_BFROU.png
+#BMP03 kody_A 02_BFROU.png
+#BMP04 kody_A 03_BFROU.png
+#BMP05 kody_A 04_BFROU.png
+#BMP06 kody_A 05_BFROU.png
+#BMP07 kody_A 06_BFROU.png
+#BMP08 kody_A 07_BFROU.png
+#BMP09 kody_A 08_BFROU.png
+#BMP0A kody_A 09_BFROU.png
+#BMP0B kody_A 10_BFROU.png
+#BMP0C kody_A 11_BFROU.png
+#BMP0D kody_A 12_BFROU.png
+#BMP0E kody_A 13_BFROU.png
+#BMP0F kody_A 14_BFROU.png
+#BMP0G kody_A 15_BFROU.png
+#BMP0H kody_A 16_BFROU.png
+#BMP0I kody_I 01_BFROU.png
+#BMP0J kody_I 02_BFROU.png
+#BMP0K kody_I 03_BFROU.png
+#BMP0L kody_I 04_BFROU.png
+#BMP0M kody_I 05_BFROU.png
+#BMP0N kody_I 06_BFROU.png
+#BMP0O kody_I 07_BFROU.png
+#BMP0P kody_I 08_BFROU.png
+#BMP0Q kody_I 09_BFROU.png
+#BMP0R kody_I 10_BFROU.png
+#BMP0S kody_I 11_BFROU.png
+#BMP0T kody_I 12_BFROU.png
+#BMP0U kody_I 13_BFROU.png
+#BMP0V kody_I 14_BFROU.png
+#BMP0W kody_I 15_BFROU.png
+#BMP0X kody_I 16_BFROU.png
+#BMP0Y kody_B 01_BFROU.png
+#BMP0Z kody_B 02_BFROU.png
+#BMP10 kody_B 03_BFROU.png
+#BMP11 kody_B 04_BFROU.png
+#BMP12 kody_B 05_BFROU.png
+#BMP13 kody_B 06_BFROU.png
+#BMP14 kody_B 07_BFROU.png
+#BMP15 kody_B 08_BFROU.png
+#BMP16 kody_B 09_BFROU.png
+#BMP17 kody_B 10_BFROU.png
+#BMP18 kody_B 11_BFROU.png
+#BMP19 kody_B 12_BFROU.png
+#BMP1A kody_B 13_BFROU.png
+#BMP1B kody_B 14_BFROU.png
+#BMP1C kody_B 15_BFROU.png
+#BMP1D kody_B 16_BFROU.png
+#BMP1E kody_B 17_BFROU.png
+#BMP1F kody_B 18_BFROU.png
+#BMP1G kody_B 19_BFROU.png
+#BMP1H kody_B 20_BFROU.png
+#BMP1I kody_B 21_BFROU.png
+#BMP1J kody_B 22_BFROU.png
+#BMP1K kody_B 23_BFROU.png
+#BMP1L kody_B 24_BFROU.png
+#BMP1M kody_B 25_BFROU.png
+#BMP1N kody_B 26_BFROU.png
+#BMP1O kody_B 27_BFROU.png
+#BMP1P kody_B 28_BFROU.png
+#BMP1Q kody_B 29_BFROU.png
+#BMP1R kody_B 30_BFROU.png
+#BMP1S kody_B 31_BFROU.png
+#BMP1T kody_B 32_BFROU.png
+#BMP1U kody_C 01_BFROU.png
+#BMP1V kody_C 02_BFROU.png
+#BMP1W kody_C 03_BFROU.png
+#BMP1X kody_C 04_BFROU.png
+#BMP1Y kody_C 05_BFROU.png
+#BMP1Z kody_C 06_BFROU.png
+#BMP20 kody_C 07_BFROU.png
+#BMP21 kody_C 08_BFROU.png
+#BMP22 kody_C 09_BFROU.png
+#BMP23 kody_C 10_BFROU.png
+#BMP24 kody_C 11_BFROU.png
+#BMP25 kody_C 12_BFROU.png
+#BMP26 kody_C 13_BFROU.png
+#BMP27 kody_C 14_BFROU.png
+#BMP28 kody_C 15_BFROU.png
+#BMP29 kody_C 16_BFROU.png
+#BMP2A kody_C 17_BFROU.png
+#BMP2B kody_C 18_BFROU.png
+#BMP2C kody_C 19_BFROU.png
+#BMP2D kody_C 20_BFROU.png
+#BMP2E kody_C 21_BFROU.png
+#BMP2F kody_C 22_BFROU.png
+#BMP2G kody_C 23_BFROU.png
+#BMP2H kody_C 24_BFROU.png
+#BMP2I kody_C 25_BFROU.png
+#BMP2J kody_C 26_BFROU.png
+#BMP2K kody_C 27_BFROU.png
+#BMP2L kody_C 28_BFROU.png
+#BMP2M kody_C 29_BFROU.png
+#BMP2N kody_C 30_BFROU.png
+#BMP2O kody_C 31_BFROU.png
+#BMP2P kody_C 32_BFROU.png
+#BMP2Q kody_D 01_BFROU.png
+#BMP2R kody_D 02_BFROU.png
+#BMP2S kody_D 03_BFROU.png
+#BMP2T kody_D 04_BFROU.png
+#BMP2U kody_D 05_BFROU.png
+#BMP2V kody_D 06_BFROU.png
+#BMP2W kody_D 07_BFROU.png
+#BMP2X kody_D 08_BFROU.png
+#BMP2Y kody_D 09_BFROU.png
+#BMP2Z kody_D 10_BFROU.png
+#BMP30 kody_D 11_BFROU.png
+#BMP31 kody_D 12_BFROU.png
+#BMP32 kody_D 13_BFROU.png
+#BMP33 kody_D 14_BFROU.png
+#BMP34 kody_D 15_BFROU.png
+#BMP35 kody_D 16_BFROU.png
+#BMP36 kody_D 17_BFROU.png
+#BMP37 kody_D 18_BFROU.png
+#BMP38 kody_D 19_BFROU.png
+#BMP39 kody_D 20_BFROU.png
+#BMP3A kody_D 21_BFROU.png
+#BMP3B kody_D 22_BFROU.png
+#BMP3C kody_D 23_BFROU.png
+#BMP3D kody_D 24_BFROU.png
+#BMP3E kody_D 25_BFROU.png
+#BMP3F kody_D 26_BFROU.png
+#BMP3G kody_D 27_BFROU.png
+#BMP3H kody_D 28_BFROU.png
+#BMP3I kody_D 29_BFROU.png
+#BMP3J kody_D 30_BFROU.png
+#BMP3K kody_D 31_BFROU.png
+#BMP3L kody_F 01_BFROU.png
+#BMP3M kody_F 02_BFROU.png
+#BMP3N kody_F 03_BFROU.png
+#BMP3O kody_F 04_BFROU.png
+#BMP3P kody_F 05_BFROU.png
+#BMP3Q kody_F 06_BFROU.png
+#BMP3R kody_F 07_BFROU.png
+#BMP3S kody_F 08_BFROU.png
+#BMP3T kody_F 09_BFROU.png
+#BMP3U kody_F 10_BFROU.png
+#BMP3V kody_F 11_BFROU.png
+#BMP3W kody_F 12_BFROU.png
+#BMP3X kody_F 13_BFROU.png
+#BMP3Y kody_F 14_BFROU.png
+#BMP3Z kody_F 15_BFROU.png
+#BMP40 kody_F 16_BFROU.png
+#BMP41 kody_F 17_BFROU.png
+#BMP42 kody_F 18_BFROU.png
+#BMP43 kody_F 19_BFROU.png
+#BMP44 kody_F 20_BFROU.png
+#BMP45 kody_F 21_BFROU.png
+#BMP46 kody_F 22_BFROU.png
+#BMP47 kody_F 23_BFROU.png
+#BMP48 kody_F 24_BFROU.png
+#BMP49 kody_F 25_BFROU.png
+#BMP4A kody_F 26_BFROU.png
+#BMP4B kody_F 27_BFROU.png
+#BMP4C kody_F 28_BFROU.png
+#BMP4D kody_F 29_BFROU.png
+#BMP4E kody_F 30_BFROU.png
+#BMP4F kody_F 31_BFROU.png
+#BMP4G kody_F 32_BFROU.png
+#BMP4H kody_G 01_BFROU.png
+#BMP4I kody_G 02_BFROU.png
+#BMP4J kody_G 03_BFROU.png
+#BMP4K kody_G 04_BFROU.png
+#BMP4L kody_G 05_BFROU.png
+#BMP4M kody_G 06_BFROU.png
+#BMP4N kody_G 07_BFROU.png
+#BMP4O kody_G 08_BFROU.png
+#BMP4P kody_G 09_BFROU.png
+#BMP4Q kody_G 10_BFROU.png
+#BMP4R kody_G 11_BFROU.png
+#BMP4S kody_G 12_BFROU.png
+#BMP4T kody_G 13_BFROU.png
+#BMP4U kody_G 14_BFROU.png
+#BMP4V kody_G 15_BFROU.png
+#BMP4W kody_G 16_BFROU.png
+#BMP4X kody_G 17_BFROU.png
+#BMP4Y kody_G 18_BFROU.png
+#BMP4Z kody_G 19_BFROU.png
+#BMP50 kody_G 20_BFROU.png
+#BMP51 kody_G 21_BFROU.png
+#BMP52 kody_G 22_BFROU.png
+#BMP53 kody_G 23_BFROU.png
+#BMP54 kody_G 24_BFROU.png
+#BMP55 kody_G 25_BFROU.png
+#BMP56 kody_G 26_BFROU.png
+#BMP57 kody_G 27_BFROU.png
+#BMP58 kody_G 28_BFROU.png
+#BMP59 kody_G 29_BFROU.png
+#BMP5A kody_G 30_BFROU.png
+#BMP5B kody_G 31_BFROU.png
+#BMP5C kody_G 32_BFROU.png
+#BMP5D kody_H 01_BFROU.png
+#BMP5E kody_H 02_BFROU.png
+#BMP5F kody_H 03_BFROU.png
+#BMP5G kody_H 04_BFROU.png
+#BMP5H kody_H 05_BFROU.png
+#BMP5I kody_H 06_BFROU.png
+#BMP5J kody_H 07_BFROU.png
+#BMP5K kody_H 08_BFROU.png
+#BMP5L kody_H 09_BFROU.png
+#BMP5M kody_H 10_BFROU.png
+#BMP5N kody_H 11_BFROU.png
+#BMP5O kody_H 12_BFROU.png
+#BMP5P kody_H 13_BFROU.png
+#BMP5Q kody_H 14_BFROU.png
+#BMP5R kody_H 15_BFROU.png
+#BMP5S kody_H 16_BFROU.png
+#BMP5T kody_J 01_BFROU.png
+#BMP5U kody_J 02_BFROU.png
+#BMP5V kody_J 03_BFROU.png
+#BMP5W kody_J 04_BFROU.png
+#BMP5X kody_J 05_BFROU.png
+#BMP5Y kody_J 06_BFROU.png
+#BMP5Z kody_J 07_BFROU.png
+#BMP60 kody_J 08_BFROU.png
+#BMP61 kody_J 09_BFROU.png
+#BMP62 kody_J 10_BFROU.png
+#BMP63 kody_J 11_BFROU.png
+#BMP64 kody_J 12_BFROU.png
+#BMP65 kody_J 13_BFROU.png
+#BMP66 kody_J 14_BFROU.png
+#BMP67 kody_J 15_BFROU.png
+#BMP68 kody_J 16_BFROU.png
+#BMP69 kody_J 17_BFROU.png
+#BMP6A kody_J 18_BFROU.png
+#BMP6B kody_J 19_BFROU.png
+#BMP6C kody_J 20_BFROU.png
+#BMP6D kody_J 21_BFROU.png
+#BMP6E kody_J 22_BFROU.png
+#BMP6F kody_J 23_BFROU.png
+#BMP6G kody_J 24_BFROU.png
+#BMP6H kody_J 25_BFROU.png
+#BMP6I kody_J 26_BFROU.png
+#BMP6J kody_J 27_BFROU.png
+#BMP6K kody_J 28_BFROU.png
+#BMP6L kody_J 29_BFROU.png
+#BMP6M kody_J 30_BFROU.png
+#BMP6N kody_J 31_BFROU.png
+#BMP6O kody_J 32_BFROU.png
+#BMP6P kody_J 33_BFROU.png
+#BMP6Q kody_J 34_BFROU.png
+#BMP6R kody_J 35_BFROU.png
+#BMP6S kody_J 36_BFROU.png
+#BMP6T kody_J 37_BFROU.png
+#BMP6U kody_J 38_BFROU.png
+#BMP6V kody_J 39_BFROU.png
+#BMP6W kody_J 40_BFROU.png
+#BMP6X kody_J 41_BFROU.png
+#BMP6Y kody_J 42_BFROU.png
+#BMP6Z kody_J 43_BFROU.png
+#BMP70 kody_J 44_BFROU.png
+#BMP71 kody_J 45_BFROU.png
+#BMP72 kody_J 46_BFROU.png
+#BMP73 kody_J 47_BFROU.png
+#BMP74 kody_J 48_BFROU.png
+#BMP75 kody_J 49_BFROU.png
+#BMP76 kody_J 50_BFROU.png
+#BMP77 kody_J 51_BFROU.png
+#BMP78 kody_J 52_BFROU.png
+#BMP79 kody_J 53_BFROU.png
+#BMP7A kody_J 54_BFROU.png
+#BMP7B kody_J 55_BFROU.png
+#BMP7C kody_J 56_BFROU.png
+#BMP7D kody_J 57_BFROU.png
+#BMP7E kody_J 58_BFROU.png
+#BMP7F kody_J 59_BFROU.png
+#BMP7G kody_J 60_BFROU.png
+#BMP7H kody_J 61_BFROU.png
+#BMP7I kody_J 62_BFROU.png
+#BMP7J kody_J 63_BFROU.png
+#BMP7K kody_J 64_BFROU.png
+#BMP7L kody_K 01_BFROU.png
+#BMP7M kody_K 02_BFROU.png
+#BMP7N kody_K 03_BFROU.png
+#BMP7O kody_K 04_BFROU.png
+#BMP7P kody_K 05_BFROU.png
+#BMP7Q kody_K 06_BFROU.png
+#BMP7R kody_K 07_BFROU.png
+#BMP7S kody_K 08_BFROU.png
+#BMP7T kody_K 09_BFROU.png
+#BMP7U kody_K 10_BFROU.png
+#BMP7V kody_K 11_BFROU.png
+#BMP7W kody_K 12_BFROU.png
+#BMP7X kody_K 14_BFROU.png
+#BMP7Y kody_K 15_BFROU.png
+#BMP7Z kody_K 16_BFROU.png
+#BMP80 kody_K 17_BFROU.png
+#BMP81 kody_K 18_BFROU.png
+#BMP82 kody_K 19_BFROU.png
+#BMP83 kody_K 20_BFROU.png
+#BMP84 kody_K 21_BFROU.png
+#BMP85 kody_K 22_BFROU.png
+#BMP86 kody_K 23_BFROU.png
+#BMP87 kody_K 24_BFROU.png
+#BMP88 kody_K 25_BFROU.png
+#BMP89 kody_K 26_BFROU.png
+#BMP8A kody_K 27_BFROU.png
+#BMP8B kody_K 28_BFROU.png
+#BMP8C kody_K 29_BFROU.png
+#BMP8D kody_K 30_BFROU.png
+#BMP8E kody_K 31_BFROU.png
+#BMP8F kody_K 32_BFROU.png
+#BMP8G kody_K 33_BFROU.png
+#BMP8H kody_K 34_BFROU.png
+#BMP8I kody_K 35_BFROU.png
+#BMP8J kody_K 36_BFROU.png
+#BMP8K kody_K 37_BFROU.png
+#BMP8L kody_K 38_BFROU.png
+#BMP8M kody_K 39_BFROU.png
+#BMP8N kody_K 40_BFROU.png
+#BMP8O kody_K 41_BFROU.png
+#BMP8P kody_K 42_BFROU.png
+#BMP8Q kody_K 43_BFROU.png
+#BMP8R kody_K 44_BFROU.png
+#BMP8S kody_K 45_BFROU.png
+#BMP8T kody_K 46_BFROU.png
+#BMP8U kody_K 47_BFROU.png
+#BMP8V kody_K 48_BFROU.png
+#BMP8W kody_K 49_BFROU.png
+#BMP8X kody_K 50_BFROU.png
+#BMP8Y kody_K 51_BFROU.png
+#BMP8Z kody_K 52_BFROU.png
+#BMP90 kody_K 53_BFROU.png
+#BMP91 kody_K 54_BFROU.png
+#BMP92 kody_K 55_BFROU.png
+#BMP93 kody_K 56_BFROU.png
+#BMP94 kody_K 57_BFROU.png
+#BMP95 kody_K 58_BFROU.png
+#BMP96 kody_K 59_BFROU.png
+#BMP97 kody_K 60_BFROU.png
+#BMP98 kody_K 61_BFROU.png
+#BMP99 kody_K 62_BFROU.png
+#BMP9A kody_K 63_BFROU.png
+#BMP9B kody_K 64_BFROU.png
+#BMP9C kody_K 65_BFROU.png
+#BMP9D kody_K 66_BFROU.png
+#BMP9E kody_K 67_BFROU.png
+#BMP9F kody_K 68_BFROU.png
+#BMP9G kody_K 69_BFROU.png
+#BMP9H kody_K 70_BFROU.png
+#BMP9I kody_K 71_BFROU.png
+#BMP9J kody_K 72_BFROU.png
+#BMP9K kody_K 73_BFROU.png
+#BMP9L kody_K 74_BFROU.png
+#BMP9M kody_K 75_BFROU.png
+#BMP9N kody_K 76_BFROU.png
+#BMP9O kody_K 77_BFROU.png
+#BMP9P kody_K 78_BFROU.png
+#BMP9Q kody_K 79_BFROU.png
+#BMP9R kody_K 80_BFROU.png
+#BMP9S kody_W 01_BFROU.png
+#BMP9T kody_W 02_BFROU.png
+#BMP9U kody_W 03_BFROU.png
+#BMP9V kody_W 04_BFROU.png
+#BMP9W kody_W 05_BFROU.png
+#BMP9X kody_W 06_BFROU.png
+#BMP9Y kody_W 07_BFROU.png
+#BMP9Z kody_W 08_BFROU.png
+#BMPA0 kody_W 09_BFROU.png
+#BMPA1 kody_W 10_BFROU.png
+#BMPA2 kody_W 11_BFROU.png
+#BMPA3 kody_W 12_BFROU.png
+#BMPA4 kody_W 13_BFROU.png
+#BMPA5 kody_W 14_BFROU.png
+#BMPA6 kody_W 15_BFROU.png
+#BMPA7 kody_W 16_BFROU.png
+#BMPA8 kody_O 01_BFROU.png
+#BMPA9 kody_O 02_BFROU.png
+#BMPAA kody_O 03_BFROU.png
+#BMPAB kody_O 04_BFROU.png
+#BMPAC kody_O 05_BFROU.png
+#BMPAD kody_O 06_BFROU.png
+#BMPAE kody_O 07_BFROU.png
+#BMPAF kody_O 08_BFROU.png
+#BMPAG kody_O 09_BFROU.png
+#BMPAH kody_O 10_BFROU.png
+#BMPAI kody_O 11_BFROU.png
+#BMPAJ kody_O 12_BFROU.png
+#BMPAK kody_O 13_BFROU.png
+#BMPAL kody_O 14_BFROU.png
+#BMPAM kody_O 15_BFROU.png
+#BMPAN kody_O 16_BFROU.png
+#BMPAO kody_O 17_BFROU.png
+#BMPAP kody_O 18_BFROU.png
+#BMPAQ kody_O 19_BFROU.png
+#BMPAR kody_O 20_BFROU.png
+#BMPAS kody_O 21_BFROU.png
+#BMPAT kody_O 22_BFROU.png
+#BMPAU kody_O 23_BFROU.png
+#BMPAV kody_O 24_BFROU.png
+#BMPAW kody_P 01_BFROU.png
+#BMPAX kody_P 02_BFROU.png
+#BMPAY kody_P 03_BFROU.png
+#BMPAZ kody_P 04_BFROU.png
+#BMPB0 kody_P 05_BFROU.png
+#BMPB1 kody_P 06_BFROU.png
+#BMPB2 kody_P 07_BFROU.png
+#BMPB3 kody_P 08_BFROU.png
+#BMPB4 kody_P 09_BFROU.png
+#BMPB5 kody_P 10_BFROU.png
+#BMPB6 kody_P 11_BFROU.png
+#BMPB7 kody_P 12_BFROU.png
+#BMPB8 kody_P 13_BFROU.png
+#BMPB9 kody_P 14_BFROU.png
+#BMPBA kody_P 15_BFROU.png
+#BMPBB kody_P 16_BFROU.png
+#BMPBC kody_P 17_BFROU.png
+#BMPBD kody_P 18_BFROU.png
+#BMPBE kody_P 19_BFROU.png
+#BMPBF kody_P 20_BFROU.png
+#BMPBG kody_P 21_BFROU.png
+#BMPBH kody_P 22_BFROU.png
+#BMPBI kody_P 23_BFROU.png
+#BMPBJ kody_P 24_BFROU.png
+#BMPBK kody_P 25_BFROU.png
+#BMPBL kody_P 26_BFROU.png
+#BMPBM kody_P 27_BFROU.png
+#BMPBN kody_P 28_BFROU.png
+#BMPBO kody_P 29_BFROU.png
+#BMPBP kody_P 30_BFROU.png
+#BMPBQ kody_P 31_BFROU.png
+#BMPBR kody_P 32_BFROU.png
+#BMPBS kody_P 33_BFROU.png
+#BMPBT kody_P 34_BFROU.png
+#BMPBU kody_P 35_BFROU.png
+#BMPBV kody_P 36_BFROU.png
+#BMPBW kody_P 37_BFROU.png
+#BMPBX kody_P 38_BFROU.png
+#BMPBY kody_P 39_BFROU.png
+#BMPBZ kody_P 40_BFROU.png
+#BMPC0 kody_P 41_BFROU.png
+#BMPC1 kody_P 42_BFROU.png
+#BMPC2 kody_P 43_BFROU.png
+#BMPC3 kody_P 44_BFROU.png
+#BMPC4 kody_P 45_BFROU.png
+#BMPC5 kody_P 46_BFROU.png
+#BMPC6 kody_P 47_BFROU.png
+#BMPC7 kody_P 48_BFROU.png
+#BMPC8 kody_P 49_BFROU.png
+#BMPC9 kody_P 50_BFROU.png
+#BMPCA kody_P 51_BFROU.png
+#BMPCB kody_P 52_BFROU.png
+#BMPCC kody_P 53_BFROU.png
+#BMPCD kody_P 54_BFROU.png
+#BMPCE kody_P 55_BFROU.png
+#BMPCF kody_P 56_BFROU.png
+#BMPCG kody_P 57_BFROU.png
+#BMPCH kody_P 58_BFROU.png
+#BMPCI kody_P 59_BFROU.png
+#BMPCJ kody_P 60_BFROU.png
+#BMPCK kody_P 61_BFROU.png
+#BMPCL kody_P 62_BFROU.png
+#BMPCM kody_P 63_BFROU.png
+#BMPCN kody_P 64_BFROU.png
+#BMPCO kody_P 65_BFROU.png
+#BMPCP kody_P 66_BFROU.png
+#BMPCQ kody_P 67_BFROU.png
+#BMPCR kody_P 68_BFROU.png
+#BMPCS kody_P 69_BFROU.png
+#BMPCT kody_P 70_BFROU.png
+#BMPCU kody_P 71_BFROU.png
+#BMPCV kody_P 72_BFROU.png
+#BMPCW kody_P 73_BFROU.png
+#BMPCX kody_P 74_BFROU.png
+#BMPCY kody_P 75_BFROU.png
+#BMPCZ kody_P 76_BFROU.png
+#BMPD0 kody_P 77_BFROU.png
+#BMPD1 kody_P 78_BFROU.png
+#BMPD2 kody_P 79_BFROU.png
+#BMPD3 kody_P 80_BFROU.png
+#BMPD4 kody_P 81_BFROU.png
+#BMPD5 kody_P 82_BFROU.png
+#BMPD6 kody_P 83_BFROU.png
+#BMPD7 kody_P 84_BFROU.png
+#BMPD8 kody_P 85_BFROU.png
+#BMPD9 kody_P 86_BFROU.png
+#BMPDA kody_P 87_BFROU.png
+#BMPDB kody_P 88_BFROU.png
+#BMPDC kody_P 89_BFROU.png
+#BMPDD kody_P 90_BFROU.png
+#BMPDE kody_P 91_BFROU.png
+#BMPDF kody_P 92_BFROU.png
+#BMPDG kody_P 93_BFROU.png
+#BMPDH kody_P 94_BFROU.png
+#BMPDI kody_P 95_BFROU.png
+#BMPDJ kody_P 96_BFROU.png
+#BMPDK kody_R 01_BFROU.png
+#BMPDL kody_R 02_BFROU.png
+#BMPDM kody_R 03_BFROU.png
+#BMPDN kody_R 04_BFROU.png
+#BMPDO kody_R 05_BFROU.png
+#BMPDP kody_R 06_BFROU.png
+#BMPDQ kody_R 07_BFROU.png
+#BMPDR kody_R 08_BFROU.png
+#BMPDS kody_R 09_BFROU.png
+#BMPDT kody_R 10_BFROU.png
+#BMPDU kody_R 11_BFROU.png
+#BMPDV kody_R 12_BFROU.png
+#BMPDW kody_R 13_BFROU.png
+#BMPDX kody_R 14_BFROU.png
+#BMPDY kody_R 15_BFROU.png
+#BMPDZ kody_R 16_BFROU.png
+#BMPE0 kody_R 17_BFROU.png
+#BMPE1 kody_R 18_BFROU.png
+#BMPE2 kody_R 19_BFROU.png
+#BMPE3 kody_R 20_BFROU.png
+#BMPE4 kody_R 21_BFROU.png
+#BMPE5 kody_R 22_BFROU.png
+#BMPE6 kody_R 23_BFROU.png
+#BMPE7 kody_R 24_BFROU.png
+#BMPE8 kody_R 25_BFROU.png
+#BMPE9 kody_R 26_BFROU.png
+#BMPEA kody_R 27_BFROU.png
+#BMPEB kody_R 28_BFROU.png
+#BMPEC kody_R 29_BFROU.png
+#BMPED kody_R 30_BFROU.png
+#BMPEE kody_R 31_BFROU.png
+#BMPEF kody_R 32_BFROU.png
+#BMPEG kody_R 33_BFROU.png
+#BMPEH kody_R 34_BFROU.png
+#BMPEI kody_R 35_BFROU.png
+#BMPEJ kody_R 36_BFROU.png
+#BMPEK kody_R 37_BFROU.png
+#BMPEL kody_R 38_BFROU.png
+#BMPEM kody_R 39_BFROU.png
+#BMPEN kody_R 40_BFROU.png
+#BMPEO kody_R 41_BFROU.png
+#BMPEP kody_R 42_BFROU.png
+#BMPEQ kody_R 43_BFROU.png
+#BMPER kody_R 44_BFROU.png
+#BMPES kody_R 45_BFROU.png
+#BMPET kody_R 46_BFROU.png
+#BMPEU kody_R 47_BFROU.png
+#BMPEV kody_R 48_BFROU.png
+#BMPEW kody_T 01_BFROU.png
+#BMPEX kody_T 02_BFROU.png
+#BMPEY kody_T 03_BFROU.png
+#BMPEZ kody_T 04_BFROU.png
+#BMPF0 kody_T 05_BFROU.png
+#BMPF1 kody_T 06_BFROU.png
+#BMPF2 kody_T 07_BFROU.png
+#BMPF3 kody_T 08_BFROU.png
+#BMPF4 kody_T 09_BFROU.png
+#BMPF5 kody_T 10_BFROU.png
+#BMPF6 kody_T 11_BFROU.png
+#BMPF7 kody_T 12_BFROU.png
+#BMPF8 kody_T 13_BFROU.png
+#BMPF9 kody_T 14_BFROU.png
+#BMPFA kody_T 15_BFROU.png
+#BMPFB kody_T 16_BFROU.png
+#BMPFC kody_T 17_BFROU.png
+#BMPFD kody_T 18_BFROU.png
+#BMPFE kody_T 19_BFROU.png
+#BMPFF kody_T 20_BFROU.png
+#BMPFG kody_T 21_BFROU.png
+#BMPFH kody_T 22_BFROU.png
+#BMPFI kody_T 23_BFROU.png
+#BMPFJ kody_T 24_BFROU.png
+#BMPFK kody_T 25_BFROU.png
+#BMPFL kody_T 26_BFROU.png
+#BMPFM kody_T 27_BFROU.png
+#BMPFN kody_T 28_BFROU.png
+#BMPFO kody_T 29_BFROU.png
+#BMPFP kody_T 30_BFROU.png
+#BMPFQ kody_T 31_BFROU.png
+#BMPFR kody_T 32_BFROU.png
+#BMPFS kody_U 01_BFROU.png
+#BMPFT kody_U 02_BFROU.png
+#BMPFU kody_U 03_BFROU.png
+#BMPFV kody_U 04_BFROU.png
+#BMPFW kody_U 05_BFROU.png
+#BMPFX kody_U 06_BFROU.png
+#BMPFY kody_U 07_BFROU.png
+#BMPFZ kody_U 08_BFROU.png
+#BMPG0 kody_U 09_BFROU.png
+#BMPG1 kody_U 10_BFROU.png
+#BMPG2 kody_U 11_BFROU.png
+#BMPG3 kody_U 12_BFROU.png
+#BMPG4 kody_U 13_BFROU.png
+#BMPG5 kody_U 14_BFROU.png
+#BMPG6 kody_U 15_BFROU.png
+#BMPG7 kody_U 16_BFROU.png
+#BMPG8 kody_U 17_BFROU.png
+#BMPG9 kody_U 18_BFROU.png
+#BMPGA kody_U 19_BFROU.png
+#BMPGB kody_U 20_BFROU.png
+#BMPGC kody_U 21_BFROU.png
+#BMPGD kody_U 22_BFROU.png
+#BMPGE kody_U 23_BFROU.png
+#BMPGF kody_U 24_BFROU.png
+#BMPGG kody_U 25_BFROU.png
+#BMPGH kody_U 26_BFROU.png
+#BMPGI kody_U 27_BFROU.png
+#BMPGJ kody_U 28_BFROU.png
+#BMPGK kody_U 29_BFROU.png
+#BMPGL kody_U 30_BFROU.png
+#BMPGM kody_U 31_BFROU.png
+#BMPGN kody_U 32_BFROU.png
+#BMPGO kody_M 01_BFROU.png
+#BMPGP kody_M 02_BFROU.png
+#BMPGQ kody_M 03_BFROU.png
+#BMPGR kody_M 04_BFROU.png
+#BMPGS kody_M 05_BFROU.png
+#BMPGT kody_M 06_BFROU.png
+#BMPGU kody_M 07_BFROU.png
+#BMPGV kody_M 08_BFROU.png
+#BMPGW kody_M 09_BFROU.png
+#BMPGX kody_M 10_BFROU.png
+#BMPGY kody_M 11_BFROU.png
+#BMPGZ kody_M 12_BFROU.png
+#BMPH0 kody_M 13_BFROU.png
+#BMPH1 kody_M 14_BFROU.png
+#BMPH2 kody_M 15_BFROU.png
+#BMPH3 kody_M 16_BFROU.png
+#BMPH4 kody_black.bmp
+#BMPH5 kody_End 25.png
+#BMPH6 kody_End 26.png
+#BMPH7 kody_End 27.png
+#BMPH8 kody_End 28.png
+#BMPH9 kody_End 29.png
+#BMPHA kody_End 30.png
+#BMPHB kody_End 31.png
+#BMPHC kody_End 32.png
+#BMPHK kody_X2 01_BFROU.png
+#BMPHL kody_X2 02_BFROU.png
+#BMPHM kody_X2 03_BFROU.png
+#BMPHN kody_X2 04_BFROU.png
+#BMPHO kody_X2 05_BFROU.png
+#BMPHP kody_X2 06_BFROU.png
+#BMPHQ kody_X2 07_BFROU.png
+#BMPHR kody_X2 08_BFROU.png
+#BMPHS kody_X2 09_BFROU.png
+#BMPHT kody_X2 10_BFROU.png
+#BMPHU kody_X2 11_BFROU.png
+#BMPHV kody_X2 12_BFROU.png
+#BMPHW kody_X2 13_BFROU.png
+#BMPHX kody_X2 14_BFROU.png
+#BMPHY kody_X2 15_BFROU.png
+#BMPHZ kody_X2 16_BFROU.png
+#BMPI0 kody_X2 17_BFROU.png
+#BMPI1 kody_X2 18_BFROU.png
+#BMPI2 kody_X2 19_BFROU.png
+#BMPI3 kody_X2 20_BFROU.png
+#BMPI4 kody_X2 21_BFROU.png
+#BMPI5 kody_X2 22_BFROU.png
+#BMPI6 kody_X2 23_BFROU.png
+#BMPI7 kody_X2 24_BFROU.png
+#BMPI8 kody_X2 25_BFROU.png
+#BMPI9 kody_X2 26_BFROU.png
+#BMPIA kody_X2 27_BFROU.png
+#BMPIB kody_X2 28_BFROU.png
+#BMPIC kody_X2 29_BFROU.png
+#BMPID kody_X2 30_BFROU.png
+#BMPIE kody_X2 31_BFROU.png
+#BMPIF kody_X2 32_BFROU.png
+#BMPIG kody_X 01_BFROU.png
+#BMPIH kody_X 02_BFROU.png
+#BMPII kody_X 03_BFROU.png
+#BMPIJ kody_X 04_BFROU.png
+#BMPIK kody_X 05_BFROU.png
+#BMPIL kody_X 06_BFROU.png
+#BMPIM kody_X 07_BFROU.png
+#BMPIN kody_X 08_BFROU.png
+#BMPIO kody_X 09_BFROU.png
+#BMPIP kody_X 10_BFROU.png
+#BMPIQ kody_X 11_BFROU.png
+#BMPIR kody_X 12_BFROU.png
+#BMPIS kody_X 13_BFROU.png
+#BMPIT kody_X 14_BFROU.png
+#BMPIU kody_X 15_BFROU.png
+#BMPIV kody_X 16_BFROU.png
+#BMPIW kody_Y 001_BFROU.png
+#BMPIX kody_Y 002_BFROU.png
+#BMPIY kody_Y 003_BFROU.png
+#BMPIZ kody_Y 004_BFROU.png
+#BMPJ0 kody_Y 005_BFROU.png
+#BMPJ1 kody_Y 006_BFROU.png
+#BMPJ2 kody_Y 007_BFROU.png
+#BMPJ3 kody_Y 008_BFROU.png
+#BMPJ4 kody_Y 009_BFROU.png
+#BMPJ5 kody_Y 010_BFROU.png
+#BMPJ6 kody_Y 011_BFROU.png
+#BMPJ7 kody_Y 012_BFROU.png
+#BMPJ8 kody_Y 013_BFROU.png
+#BMPJ9 kody_Y 014_BFROU.png
+#BMPJA kody_Y 015_BFROU.png
+#BMPJB kody_Y 016_BFROU.png
+#BMPJC kody_Y 017_BFROU.png
+#BMPJD kody_Y 018_BFROU.png
+#BMPJE kody_Y 019_BFROU.png
+#BMPJF kody_Y 020_BFROU.png
+#BMPJG kody_Y 021_BFROU.png
+#BMPJH kody_Y 022_BFROU.png
+#BMPJI kody_Y 023_BFROU.png
+#BMPJJ kody_Y 024_BFROU.png
+#BMPJK kody_Y 025_BFROU.png
+#BMPJL kody_Y 026_BFROU.png
+#BMPJM kody_Y 027_BFROU.png
+#BMPJN kody_Y 028_BFROU.png
+#BMPJO kody_Y 029_BFROU.png
+#BMPJP kody_Y 030_BFROU.png
+#BMPJQ kody_Y 031_BFROU.png
+#BMPJR kody_Y 032_BFROU.png
+#BMPJS kody_Y 033_BFROU.png
+#BMPJT kody_Y 034_BFROU.png
+#BMPJU kody_Y 035_BFROU.png
+#BMPJV kody_Y 036_BFROU.png
+#BMPJW kody_Y 037_BFROU.png
+#BMPJX kody_Y 038_BFROU.png
+#BMPJY kody_Y 039_BFROU.png
+#BMPJZ kody_Y 040_BFROU.png
+#BMPK0 kody_Y 041_BFROU.png
+#BMPK1 kody_Y 042_BFROU.png
+#BMPK2 kody_Y 043_BFROU.png
+#BMPK3 kody_Y 044_BFROU.png
+#BMPK4 kody_Y 045_BFROU.png
+#BMPK5 kody_Y 046_BFROU.png
+#BMPK6 kody_Y 047_BFROU.png
+#BMPK7 kody_Y 048_BFROU.png
+#BMPK8 kody_Y 049_BFROU.png
+#BMPK9 kody_Y 050_BFROU.png
+#BMPKA kody_Y 051_BFROU.png
+#BMPKB kody_Y 052_BFROU.png
+#BMPKC kody_Y 053_BFROU.png
+#BMPKD kody_Y 054_BFROU.png
+#BMPKE kody_Y 055_BFROU.png
+#BMPKF kody_Y 056_BFROU.png
+#BMPKG kody_Y 057_BFROU.png
+#BMPKH kody_Y 058_BFROU.png
+#BMPKI kody_Y 059_BFROU.png
+#BMPKJ kody_Y 060_BFROU.png
+#BMPKK kody_Y 061_BFROU.png
+#BMPKL kody_Y 062_BFROU.png
+#BMPKM kody_Y 063_BFROU.png
+#BMPKN kody_Y 064_BFROU.png
+#BMPKO kody_Y 065_BFROU.png
+#BMPKP kody_Y 066_BFROU.png
+#BMPKQ kody_Y 067_BFROU.png
+#BMPKR kody_Y 068_BFROU.png
+#BMPKS kody_Y 069_BFROU.png
+#BMPKT kody_Y 070_BFROU.png
+#BMPKU kody_Y 071_BFROU.png
+#BMPKV kody_Y 072_BFROU.png
+#BMPKW kody_Y 073_BFROU.png
+#BMPKX kody_Y 074_BFROU.png
+#BMPKY kody_Y 075_BFROU.png
+#BMPKZ kody_Y 076_BFROU.png
+#BMPL0 kody_Y 077_BFROU.png
+#BMPL1 kody_Y 078_BFROU.png
+#BMPL2 kody_Y 079_BFROU.png
+#BMPL3 kody_Y 080_BFROU.png
+#BMPL4 kody_Y 081_BFROU.png
+#BMPL5 kody_Y 082_BFROU.png
+#BMPL6 kody_Y 083_BFROU.png
+#BMPL7 kody_Y 084_BFROU.png
+#BMPL8 kody_Y 085_BFROU.png
+#BMPL9 kody_Y 086_BFROU.png
+#BMPLA kody_Y 087_BFROU.png
+#BMPLB kody_Y 088_BFROU.png
+#BMPLC kody_Y 089_BFROU.png
+#BMPLD kody_Y 090_BFROU.png
+#BMPLE kody_Y 091_BFROU.png
+#BMPLF kody_Y 092_BFROU.png
+#BMPLG kody_Y 093_BFROU.png
+#BMPLH kody_Y 094_BFROU.png
+#BMPLI kody_Y 095_BFROU.png
+#BMPLJ kody_Y 096_BFROU.png
+#BMPLK kody_Y 097_BFROU.png
+#BMPLL kody_Y 098_BFROU.png
+#BMPLM kody_Y 099_BFROU.png
+#BMPLN kody_Y 100_BFROU.png
+#BMPLO kody_Y 101_BFROU.png
+#BMPLP kody_Y 102_BFROU.png
+#BMPLQ kody_Y 103_BFROU.png
+#BMPLR kody_Y 104_BFROU.png
+#BMPLS kody_Y 105_BFROU.png
+#BMPLT kody_Y 106_BFROU.png
+#BMPLU kody_Y 107_BFROU.png
+#BMPLV kody_Y 108_BFROU.png
+#BMPLW kody_Y 109_BFROU.png
+#BMPLX kody_Y 110_BFROU.png
+#BMPLY kody_Y 111_BFROU.png
+#BMPLZ kody_Y 112_BFROU.png
+#BMPM0 kody_Z3 001_BFROU.png
+#BMPM1 kody_Z3 002_BFROU.png
+#BMPM2 kody_Z3 003_BFROU.png
+#BMPM3 kody_Z3 004_BFROU.png
+#BMPM4 kody_Z3 005_BFROU.png
+#BMPM5 kody_Z3 006_BFROU.png
+#BMPM6 kody_Z3 007_BFROU.png
+#BMPM7 kody_Z3 008_BFROU.png
+#BMPM8 kody_Z3 009_BFROU.png
+#BMPM9 kody_Z3 010_BFROU.png
+#BMPMA kody_Z3 011_BFROU.png
+#BMPMB kody_Z3 012_BFROU.png
+#BMPMC kody_Z3 013_BFROU.png
+#BMPMD kody_Z3 014_BFROU.png
+#BMPME kody_Z3 015_BFROU.png
+#BMPMF kody_Z3 016_BFROU.png
+#BMPMG kody_Z3 017_BFROU.png
+#BMPMH kody_Z3 018_BFROU.png
+#BMPMI kody_Z3 019_BFROU.png
+#BMPMJ kody_Z3 020_BFROU.png
+#BMPMK kody_Z3 021_BFROU.png
+#BMPML kody_Z3 022_BFROU.png
+#BMPMM kody_Z3 023_BFROU.png
+#BMPMN kody_Z3 024_BFROU.png
+#BMPMO kody_Z3 025_BFROU.png
+#BMPMP kody_Z3 026_BFROU.png
+#BMPMQ kody_Z3 027_BFROU.png
+#BMPMR kody_Z3 028_BFROU.png
+#BMPMS kody_Z3 029_BFROU.png
+#BMPMT kody_Z3 030_BFROU.png
+#BMPMU kody_Z3 031_BFROU.png
+#BMPMV kody_Z3 032_BFROU.png
+#BMPMW kody_Z3 033_BFROU.png
+#BMPMX kody_Z3 034_BFROU.png
+#BMPMY kody_Z3 035_BFROU.png
+#BMPMZ kody_Z3 036_BFROU.png
+#BMPN0 kody_Z3 037_BFROU.png
+#BMPN1 kody_Z3 038_BFROU.png
+#BMPN2 kody_Z3 039_BFROU.png
+#BMPN3 kody_Z3 040_BFROU.png
+#BMPN4 kody_Z3 041_BFROU.png
+#BMPN5 kody_Z3 042_BFROU.png
+#BMPN6 kody_Z3 043_BFROU.png
+#BMPN7 kody_Z3 044_BFROU.png
+#BMPN8 kody_Z3 045_BFROU.png
+#BMPN9 kody_Z3 046_BFROU.png
+#BMPNA kody_Z3 047_BFROU.png
+#BMPNB kody_Z3 048_BFROU.png
+#BMPNC kody_Z3 049_BFROU.png
+#BMPND kody_Z3 050_BFROU.png
+#BMPNE kody_Z3 051_BFROU.png
+#BMPNF kody_Z3 052_BFROU.png
+#BMPNG kody_Z3 053_BFROU.png
+#BMPNH kody_Z3 054_BFROU.png
+#BMPNI kody_Z3 055_BFROU.png
+#BMPNJ kody_Z3 056_BFROU.png
+#BMPNK kody_Z3 057_BFROU.png
+#BMPNL kody_Z3 058_BFROU.png
+#BMPNM kody_Z3 059_BFROU.png
+#BMPNN kody_Z3 060_BFROU.png
+#BMPNO kody_Z3 061_BFROU.png
+#BMPNP kody_Z3 062_BFROU.png
+#BMPNQ kody_Z3 063_BFROU.png
+#BMPNR kody_Z3 064_BFROU.png
+#BMPNS kody_Z3 065_BFROU.png
+#BMPNT kody_Z3 066_BFROU.png
+#BMPNU kody_Z3 067_BFROU.png
+#BMPNV kody_Z3 068_BFROU.png
+#BMPNW kody_Z3 069_BFROU.png
+#BMPNX kody_Z3 070_BFROU.png
+#BMPNY kody_Z3 071_BFROU.png
+#BMPNZ kody_Z3 072_BFROU.png
+#BMPO0 kody_Z3 073_BFROU.png
+#BMPO1 kody_Z3 074_BFROU.png
+#BMPO2 kody_Z3 075_BFROU.png
+#BMPO3 kody_Z3 076_BFROU.png
+#BMPO4 kody_Z3 077_BFROU.png
+#BMPO5 kody_Z3 078_BFROU.png
+#BMPO6 kody_Z3 079_BFROU.png
+#BMPO7 kody_Z3 080_BFROU.png
+#BMPO8 kody_Z3 081_BFROU.png
+#BMPO9 kody_Z3 082_BFROU.png
+#BMPOA kody_Z3 083_BFROU.png
+#BMPOB kody_Z3 084_BFROU.png
+#BMPOC kody_Z3 085_BFROU.png
+#BMPOD kody_Z3 086_BFROU.png
+#BMPOE kody_Z3 087_BFROU.png
+#BMPOF kody_Z3 088_BFROU.png
+#BMPOG kody_Z3 089_BFROU.png
+#BMPOH kody_Z3 090_BFROU.png
+#BMPOI kody_Z3 091_BFROU.png
+#BMPOJ kody_Z3 092_BFROU.png
+#BMPOK kody_Z3 093_BFROU.png
+#BMPOL kody_Z3 094_BFROU.png
+#BMPOM kody_Z3 095_BFROU.png
+#BMPON kody_Z3 096_BFROU.png
+#BMPOO kody_Z3 097_BFROU.png
+#BMPOP kody_Z3 098_BFROU.png
+#BMPOQ kody_Z3 099_BFROU.png
+#BMPOR kody_Z3 100_BFROU.png
+#BMPOS kody_Z3 101_BFROU.png
+#BMPOT kody_Z3 102_BFROU.png
+#BMPOU kody_Z3 103_BFROU.png
+#BMPOV kody_Z3 104_BFROU.png
+#BMPOW kody_Z3 105_BFROU.png
+#BMPOX kody_Z3 106_BFROU.png
+#BMPOY kody_Z3 107_BFROU.png
+#BMPOZ kody_Z3 108_BFROU.png
+#BMPP0 kody_Z3 109_BFROU.png
+#BMPP1 kody_Z3 110_BFROU.png
+#BMPP2 kody_Z3 111_BFROU.png
+#BMPP3 kody_Z3 112_BFROU.png
+#BMPP4 kody_Z3 113_BFROU.png
+#BMPP5 kody_Z3 114_BFROU.png
+#BMPP6 kody_Z3 115_BFROU.png
+#BMPP7 kody_Z3 116_BFROU.png
+#BMPP8 kody_Z3 117_BFROU.png
+#BMPP9 kody_Z3 118_BFROU.png
+#BMPPA kody_Z3 119_BFROU.png
+#BMPPB kody_Z3 120_BFROU.png
+#BMPPC kody_Z3 121_BFROU.png
+#BMPPD kody_Z3 122_BFROU.png
+#BMPPE kody_Z3 123_BFROU.png
+#BMPPF kody_Z3 124_BFROU.png
+#BMPPG kody_Z3 125_BFROU.png
+#BMPPH kody_Z3 126_BFROU.png
+#BMPPI kody_Z3 127_BFROU.png
+#BMPPJ kody_Z3 128_BFROU.png
+#BMPPK kody_Z3 129_BFROU.png
+#BMPPL kody_Z3 130_BFROU.png
+#BMPPM kody_Z3 131_BFROU.png
+#BMPPN kody_Z3 132_BFROU.png
+#BMPPO kody_Z3 133_BFROU.png
+#BMPPP kody_Z3 134_BFROU.png
+#BMPPQ kody_Z3 135_BFROU.png
+#BMPPR kody_Z3 136_BFROU.png
+#BMPPS kody_Z3 137_BFROU.png
+#BMPPT kody_Z3 138_BFROU.png
+#BMPPU kody_Z3 139_BFROU.png
+#BMPPV kody_Z3 140_BFROU.png
+#BMPPW kody_Z3 141_BFROU.png
+#BMPPX kody_Z3 142_BFROU.png
+#BMPPY kody_Z3 143_BFROU.png
+#BMPPZ kody_Z3 144_BFROU.png
+#BMPQ0 kody_Z3 145_BFROU.png
+#BMPQ1 kody_Z3 146_BFROU.png
+#BMPQ2 kody_Z3 147_BFROU.png
+#BMPQ3 kody_Z3 148_BFROU.png
+#BMPQ4 kody_Z3 149_BFROU.png
+#BMPQ5 kody_Z3 150_BFROU.png
+#BMPQ6 kody_Z3 151_BFROU.png
+#BMPQ7 kody_Z3 152_BFROU.png
+#BMPQ8 kody_Z3 153_BFROU.png
+#BMPQ9 kody_Z3 154_BFROU.png
+#BMPQA kody_Z3 155_BFROU.png
+#BMPQB kody_Z3 156_BFROU.png
+#BMPQC kody_Z3 157_BFROU.png
+#BMPQD kody_Z3 158_BFROU.png
+#BMPQE kody_Z3 159_BFROU.png
+#BMPQF kody_Z3 160_BFROU.png
+#BMPQG kody_F2 01_BFROU.png
+#BMPQH kody_F2 02_BFROU.png
+#BMPQI kody_F2 03_BFROU.png
+#BMPQJ kody_F2 04_BFROU.png
+#BMPQK kody_F2 05_BFROU.png
+#BMPQL kody_F2 06_BFROU.png
+#BMPQM kody_F2 07_BFROU.png
+#BMPQN kody_F2 08_BFROU.png
+#BMPQO kody_F2 09_BFROU.png
+#BMPQP kody_F2 10_BFROU.png
+#BMPQQ kody_F2 11_BFROU.png
+#BMPQR kody_F2 12_BFROU.png
+#BMPQS kody_F2 13_BFROU.png
+#BMPQT kody_F2 14_BFROU.png
+#BMPQU kody_F2 15_BFROU.png
+#BMPQV kody_F2 16_BFROU.png
+#BMPQW kody_F2 17_BFROU.png
+#BMPQX kody_F2 18_BFROU.png
+#BMPQY kody_F2 19_BFROU.png
+#BMPQZ kody_F2 20_BFROU.png
+#BMPR0 kody_F2 21_BFROU.png
+#BMPR1 kody_F2 22_BFROU.png
+#BMPR2 kody_F2 23_BFROU.png
+#BMPR3 kody_F2 24_BFROU.png
+#BMPR4 kody_F2 25_BFROU.png
+#BMPR5 kody_F2 26_BFROU.png
+#BMPR6 kody_F2 27_BFROU.png
+#BMPR7 kody_F2 28_BFROU.png
+#BMPR8 kody_F2 29_BFROU.png
+#BMPR9 kody_F2 30_BFROU.png
+#BMPRA kody_F2 31_BFROU.png
+#BMPRB kody_F2 32_BFROU.png
+#BMPRC kody_Z5 01_BFROU.png
+#BMPRD kody_Z5 02_BFROU.png
+#BMPRE kody_Z5 03_BFROU.png
+#BMPRF kody_Z5 04_BFROU.png
+#BMPRG kody_Z5 05_BFROU.png
+#BMPRH kody_Z5 06_BFROU.png
+#BMPRI kody_Z5 07_BFROU.png
+#BMPRJ kody_Z5 08_BFROU.png
+#BMPRK kody_Z4 01_BFROU.png
+#BMPRL kody_Z4 02_BFROU.png
+#BMPRM kody_Z4 03_BFROU.png
+#BMPRN kody_Z4 04_BFROU.png
+#BMPRO kody_Z4 05_BFROU.png
+#BMPRP kody_Z4 06_BFROU.png
+#BMPRQ kody_Z4 07_BFROU.png
+#BMPRR kody_Z4 08_BFROU.png
+#BMPRS kody_Z4 09_BFROU.png
+#BMPRT kody_Z4 10_BFROU.png
+#BMPRU kody_Z4 11_BFROU.png
+#BMPRV kody_Z4 12_BFROU.png
+#BMPRW kody_Z4 13_BFROU.png
+#BMPRX kody_Z4 14_BFROU.png
+#BMPRY kody_Z4 15_BFROU.png
+#BMPRZ kody_Z4 16_BFROU.png
+#BMPS0 kody_Z4 17_BFROU.png
+#BMPS1 kody_Z4 18_BFROU.png
+#BMPS2 kody_Z4 19_BFROU.png
+#BMPS3 kody_Z4 20_BFROU.png
+#BMPS4 kody_Z4 21_BFROU.png
+#BMPS5 kody_Z4 22_BFROU.png
+#BMPS6 kody_Z4 23_BFROU.png
+#BMPS7 kody_Z4 24_BFROU.png
+#BMPS8 kody_Z4 25_BFROU.png
+#BMPS9 kody_Z4 26_BFROU.png
+#BMPSA kody_Z4 27_BFROU.png
+#BMPSB kody_Z4 28_BFROU.png
+#BMPSC kody_Z4 29_BFROU.png
+#BMPSD kody_Z4 30_BFROU.png
+#BMPSE kody_Z4 31_BFROU.png
+#BMPSF kody_Z4 32_BFROU.png
+#BMPSG kody_Z4 33_BFROU.png
+#BMPSH kody_Z4 34_BFROU.png
+#BMPSI kody_Z4 35_BFROU.png
+#BMPSJ kody_Z4 36_BFROU.png
+#BMPSK kody_Z4 37_BFROU.png
+#BMPSL kody_Z4 38_BFROU.png
+#BMPSM kody_Z4 39_BFROU.png
+#BMPSN kody_Z4 40_BFROU.png
+#BMPSO kody_Z4 41_BFROU.png
+#BMPSP kody_Z4 42_BFROU.png
+#BMPSQ kody_Z4 43_BFROU.png
+#BMPSR kody_Z4 44_BFROU.png
+#BMPSS kody_Z4 45_BFROU.png
+#BMPST kody_Z4 46_BFROU.png
+#BMPSU kody_Z4 47_BFROU.png
+#BMPSV kody_Z4 48_BFROU.png
+#BMPSW kody_Z7 01_BFROU.png
+#BMPSX kody_Z7 02_BFROU.png
+#BMPSY kody_Z7 03_BFROU.png
+#BMPSZ kody_Z7 04_BFROU.png
+#BMPT0 kody_Z7 05_BFROU.png
+#BMPT1 kody_Z7 06_BFROU.png
+#BMPT2 kody_Z7 07_BFROU.png
+#BMPT3 kody_Z7 08_BFROU.png
+#BMPT4 kody_Z7 09_BFROU.png
+#BMPT5 kody_Z7 10_BFROU.png
+#BMPT6 kody_Z7 11_BFROU.png
+#BMPT7 kody_Z7 12_BFROU.png
+#BMPT8 kody_Z7 13_BFROU.png
+#BMPT9 kody_Z7 14_BFROU.png
+#BMPTA kody_Z7 15_BFROU.png
+#BMPTB kody_Z7 16_BFROU.png
+#BMPTC kody_V 01_BFROU.png
+#BMPTD kody_V 02_BFROU.png
+#BMPTE kody_V 03_BFROU.png
+#BMPTF kody_V 04_BFROU.png
+#BMPTG kody_V 05_BFROU.png
+#BMPTH kody_V 06_BFROU.png
+#BMPTI kody_V 07_BFROU.png
+#BMPTJ kody_V 08_BFROU.png
+#BMPTK kody_V 09_BFROU.png
+#BMPTL kody_V 10_BFROU.png
+#BMPTM kody_V 11_BFROU.png
+#BMPTN kody_V 12_BFROU.png
+#BMPTO kody_V 13_BFROU.png
+#BMPTP kody_V 14_BFROU.png
+#BMPTQ kody_V 15_BFROU.png
+#BMPTR kody_V 16_BFROU.png
+#BMPTS kody_V 17_BFROU.png
+#BMPTT kody_V 18_BFROU.png
+#BMPTU kody_V 19_BFROU.png
+#BMPTV kody_V 20_BFROU.png
+#BMPTW kody_V 21_BFROU.png
+#BMPTX kody_V 22_BFROU.png
+#BMPTY kody_V 23_BFROU.png
+#BMPTZ kody_V 24_BFROU.png
+#BMPU0 kody_V 25_BFROU.png
+#BMPU1 kody_V 26_BFROU.png
+#BMPU2 kody_V 27_BFROU.png
+#BMPU3 kody_V 28_BFROU.png
+#BMPU4 kody_V 29_BFROU.png
+#BMPU5 kody_V 30_BFROU.png
+#BMPU6 kody_V 31_BFROU.png
+#BMPU7 kody_V 32_BFROU.png
+#BMPU8 kody_V 33_BFROU.png
+#BMPU9 kody_V 34_BFROU.png
+#BMPUA kody_V 35_BFROU.png
+#BMPUB kody_V 36_BFROU.png
+#BMPUC kody_V 37_BFROU.png
+#BMPUD kody_V 38_BFROU.png
+#BMPUE kody_V 39_BFROU.png
+#BMPUF kody_V 40_BFROU.png
+#BMPUG kody_V 41_BFROU.png
+#BMPUH kody_V 42_BFROU.png
+#BMPUI kody_V 43_BFROU.png
+#BMPUJ kody_V 44_BFROU.png
+#BMPUK kody_V 45_BFROU.png
+#BMPUL kody_V 46_BFROU.png
+#BMPUM kody_V 47_BFROU.png
+#BMPUN kody_V 48_BFROU.png
+#BMPUO kody_V 49_BFROU.png
+#BMPUP kody_V 50_BFROU.png
+#BMPUQ kody_V 51_BFROU.png
+#BMPUR kody_V 52_BFROU.png
+#BMPUS kody_V 53_BFROU.png
+#BMPUT kody_V 54_BFROU.png
+#BMPUU kody_V 55_BFROU.png
+#BMPUV kody_V 56_BFROU.png
+#BMPUW kody_V 57_BFROU.png
+#BMPUX kody_V 58_BFROU.png
+#BMPUY kody_V 59_BFROU.png
+#BMPUZ kody_V 60_BFROU.png
+#BMPV0 kody_V 61_BFROU.png
+#BMPV1 kody_V 62_BFROU.png
+#BMPV2 kody_V 63_BFROU.png
+#BMPV3 kody_V 64_BFROU.png
+#BMPV4 kody_V 65_BFROU.png
+#BMPV5 kody_V 66_BFROU.png
+#BMPV6 kody_V 67_BFROU.png
+#BMPV7 kody_V 68_BFROU.png
+#BMPV8 kody_V 69_BFROU.png
+#BMPV9 kody_V 70_BFROU.png
+#BMPVA kody_V 71_BFROU.png
+#BMPVB kody_V 72_BFROU.png
+#BMPVC kody_V 73_BFROU.png
+#BMPVD kody_V 74_BFROU.png
+#BMPVE kody_V 75_BFROU.png
+#BMPVF kody_V 76_BFROU.png
+#BMPVG kody_V 77_BFROU.png
+#BMPVH kody_V 78_BFROU.png
+#BMPVI kody_V 79_BFROU.png
+#BMPVJ kody_V 80_BFROU.png
+#BMPVK kody_L 1_BFROU.png
+#BMPVL kody_L 2_BFROU.png
+#BMPVM kody_L 3_BFROU.png
+#BMPVN kody_L 4_BFROU.png
+#BMPVO kody_L 5_BFROU.png
+#BMPVP kody_L 6_BFROU.png
+#BMPVQ kody_L 7_BFROU.png
+#BMPVR kody_L 8_BFROU.png
+#BMPVS kody_Z2 001_BFROU.png
+#BMPVT kody_Z2 002_BFROU.png
+#BMPVU kody_Z2 003_BFROU.png
+#BMPVV kody_Z2 004_BFROU.png
+#BMPVW kody_Z2 005_BFROU.png
+#BMPVX kody_Z2 006_BFROU.png
+#BMPVY kody_Z2 007_BFROU.png
+#BMPVZ kody_Z2 008_BFROU.png
+#BMPW0 kody_Z2 009_BFROU.png
+#BMPW1 kody_Z2 010_BFROU.png
+#BMPW2 kody_Z2 011_BFROU.png
+#BMPW3 kody_Z2 012_BFROU.png
+#BMPW4 kody_Z2 013_BFROU.png
+#BMPW5 kody_Z2 014_BFROU.png
+#BMPW6 kody_Z2 015_BFROU.png
+#BMPW7 kody_Z2 016_BFROU.png
+#BMPW8 kody_Z2 017_BFROU.png
+#BMPW9 kody_Z2 018_BFROU.png
+#BMPWA kody_Z2 019_BFROU.png
+#BMPWB kody_Z2 020_BFROU.png
+#BMPWC kody_Z2 021_BFROU.png
+#BMPWD kody_Z2 022_BFROU.png
+#BMPWE kody_Z2 023_BFROU.png
+#BMPWF kody_Z2 024_BFROU.png
+#BMPWG kody_Z2 025_BFROU.png
+#BMPWH kody_Z2 026_BFROU.png
+#BMPWI kody_Z2 027_BFROU.png
+#BMPWJ kody_Z2 028_BFROU.png
+#BMPWK kody_Z2 029_BFROU.png
+#BMPWL kody_Z2 030_BFROU.png
+#BMPWM kody_Z2 031_BFROU.png
+#BMPWN kody_Z2 032_BFROU.png
+#BMPWO kody_Z2 033_BFROU.png
+#BMPWP kody_Z2 034_BFROU.png
+#BMPWQ kody_Z2 035_BFROU.png
+#BMPWR kody_Z2 036_BFROU.png
+#BMPWS kody_Z2 037_BFROU.png
+#BMPWT kody_Z2 038_BFROU.png
+#BMPWU kody_Z2 039_BFROU.png
+#BMPWV kody_Z2 040_BFROU.png
+#BMPWW kody_Z2 041_BFROU.png
+#BMPWX kody_Z2 042_BFROU.png
+#BMPWY kody_Z2 043_BFROU.png
+#BMPWZ kody_Z2 044_BFROU.png
+#BMPX0 kody_Z2 045_BFROU.png
+#BMPX1 kody_Z2 046_BFROU.png
+#BMPX2 kody_Z2 047_BFROU.png
+#BMPX3 kody_Z2 048_BFROU.png
+#BMPX4 kody_Z2 049_BFROU.png
+#BMPX5 kody_Z2 050_BFROU.png
+#BMPX6 kody_Z2 051_BFROU.png
+#BMPX7 kody_Z2 052_BFROU.png
+#BMPX8 kody_Z2 053_BFROU.png
+#BMPX9 kody_Z2 054_BFROU.png
+#BMPXA kody_Z2 055_BFROU.png
+#BMPXB kody_Z2 056_BFROU.png
+#BMPXC kody_Z2 057_BFROU.png
+#BMPXD kody_Z2 058_BFROU.png
+#BMPXE kody_Z2 059_BFROU.png
+#BMPXF kody_Z2 060_BFROU.png
+#BMPXG kody_Z2 061_BFROU.png
+#BMPXH kody_Z2 062_BFROU.png
+#BMPXI kody_Z2 063_BFROU.png
+#BMPXJ kody_Z2 064_BFROU.png
+#BMPXK kody_Z2 065_BFROU.png
+#BMPXL kody_Z2 066_BFROU.png
+#BMPXM kody_Z2 067_BFROU.png
+#BMPXN kody_Z2 068_BFROU.png
+#BMPXO kody_Z2 069_BFROU.png
+#BMPXP kody_Z2 070_BFROU.png
+#BMPXQ kody_Z2 071_BFROU.png
+#BMPXR kody_Z2 072_BFROU.png
+#BMPXS kody_Z2 073_BFROU.png
+#BMPXT kody_Z2 074_BFROU.png
+#BMPXU kody_Z2 075_BFROU.png
+#BMPXV kody_Z2 076_BFROU.png
+#BMPXW kody_Z2 077_BFROU.png
+#BMPXX kody_Z2 078_BFROU.png
+#BMPXY kody_Z2 079_BFROU.png
+#BMPXZ kody_Z2 080_BFROU.png
+#BMPY0 kody_End 01.png
+#BMPY1 kody_End 02.png
+#BMPY2 kody_End 03.png
+#BMPY3 kody_End 04.png
+#BMPY4 kody_End 05.png
+#BMPY5 kody_End 06.png
+#BMPY6 kody_End 07.png
+#BMPY7 kody_End 08.png
+#BMPY8 kody_End 09.png
+#BMPY9 kody_End 10.png
+#BMPYA kody_End 11.png
+#BMPYB kody_End 12.png
+#BMPYC kody_End 13.png
+#BMPYD kody_End 14.png
+#BMPYE kody_End 15.png
+#BMPYF kody_End 16.png
+#BMPYG kody_End 17.png
+#BMPYH kody_End 18.png
+#BMPYI kody_End 19.png
+#BMPYJ kody_End 20.png
+#BMPYK kody_End 21.png
+#BMPYL kody_End 22.png
+#BMPYM kody_End 23.png
+#BMPYN kody_End 24.png
+#BMPYO kody_Z2 081_BFROU.png
+#BMPYP kody_Z2 082_BFROU.png
+#BMPYQ kody_Z2 083_BFROU.png
+#BMPYR kody_Z2 084_BFROU.png
+#BMPYS kody_Z2 085_BFROU.png
+#BMPYT kody_Z2 086_BFROU.png
+#BMPYU kody_Z2 087_BFROU.png
+#BMPYV kody_Z2 088_BFROU.png
+#BMPYW kody_Z2 089_BFROU.png
+#BMPYX kody_Z2 090_BFROU.png
+#BMPYY kody_Z2 091_BFROU.png
+#BMPYZ kody_Z2 092_BFROU.png
+#BMPZ0 kody_Z2 093_BFROU.png
+#BMPZ1 kody_Z2 094_BFROU.png
+#BMPZ2 kody_Z2 095_BFROU.png
+#BMPZ3 kody_Z2 096_BFROU.png
+#BMPZ4 kody_Z2 097_BFROU.png
+#BMPZ5 kody_Z2 098_BFROU.png
+#BMPZ6 kody_Z2 099_BFROU.png
+#BMPZ7 kody_Z2 100_BFROU.png
+#BMPZ8 kody_Z2 101_BFROU.png
+#BMPZ9 kody_Z2 102_BFROU.png
+#BMPZA kody_Z2 103_BFROU.png
+#BMPZB kody_Z2 104_BFROU.png
+#BMPZC kody_Z2 105_BFROU.png
+#BMPZD kody_Z2 106_BFROU.png
+#BMPZE kody_Z2 107_BFROU.png
+#BMPZF kody_Z2 108_BFROU.png
+#BMPZG kody_Z2 109_BFROU.png
+#BMPZH kody_Z2 110_BFROU.png
+#BMPZI kody_Z2 111_BFROU.png
+#BMPZJ kody_Z2 112_BFROU.png
+#BMPZK kody_Z2 113_BFROU.png
+#BMPZL kody_Z2 114_BFROU.png
+#BMPZM kody_Z2 115_BFROU.png
+#BMPZN kody_Z2 116_BFROU.png
+#BMPZO kody_Z2 117_BFROU.png
+#BMPZP kody_Z2 118_BFROU.png
+#BMPZQ kody_Z2 119_BFROU.png
+#BMPZR kody_Z2 120_BFROU.png
+#BMPZS kody_Z2 121_BFROU.png
+#BMPZT kody_Z2 122_BFROU.png
+#BMPZU kody_Z2 123_BFROU.png
+#BMPZV kody_Z2 124_BFROU.png
+#BMPZW kody_Z2 125_BFROU.png
+#BMPZX kody_Z2 126_BFROU.png
+#BMPZY kody_Z2 127_BFROU.png
+#BMPZZ kody_Z2 128_BFROU.png
+
+
+*---------------------- EXPANSION FIELD
+#VOLWAV 100
+
+
+
+*---------------------- MAIN DATA FIELD
+
+
+#00003:8C
+#00004:02030405060708090A0B0C0D0E0F0G0H0203040506070809
+#00007:01
+
+#00101:02
+#00104:0A0B0C0D0E0F0G0H02030405060708090A0B0C0D0E0F0G0H
+
+#00204:02030405060708090A0B0C0D0E0F0G0H0203040506070809
+
+#00301:03
+#00304:0A0B0C0D0E0F0G0H02030405060708090A0B0C0D0E0F0G0H
+
+#00404:02030405060708090A0B0C0D0E0F0G0H0203040506070809
+
+#00501:02
+#00504:0A0B0C0D0E0F0G0H02030405060708090A0B0C0D0E0F0G0H
+
+#00601:00
+#00601:0000000000000006
+#00604:02030405060708090A0B0C0D0E0F0G0H0203040506070809
+
+#00701:04
+#00704:0A0B0C0D0E0F0G0H02030405060708090A0B0C0D0E0F0G0H
+
+#00804:02030405060708090A0B0C0D0E0F0G0H0203040506070809
+#00807:H4
+#00811:00000048
+#00813:0000000000000049
+
+#00901:02
+#00901:5F
+#00901:0055575A5C6D6A68
+#00904:0A0B0C0D0E0F0G0H02030405060708090A0B0C0D0E0F0G0H
+#00911:00000000004A0000
+#00913:000000000000000000000000004B0000
+#00915:4B
+
+#01001:00
+#01001:60
+#01001:0056585B5D6E6B69
+#01004:02030405060708090A0B0C0D0E0F0G0H0203040506070809
+#01013:0000000000000000000000000000000000000000000000000000000000000000000000000000004F000000000000000000000000000000000000000000000000
+#01014:00000000000000000000000000500000
+#01015:4C00000000510000
+
+#01101:03
+#01101:61
+#01101:0057595C486F6C6A
+#01104:0A0B0C0D0E0F0G0H02030405060708090A0B0C0D0E0F0G0H
+#01112:4C
+#01113:004D0000
+
+#01201:00
+#01201:6263
+#01201:0057595C0056585B
+#01204:02030405060708090A0B0C0D0E0F0G0H0203040506070809
+#01211:0000004D
+#01212:0000000000000050
+
+#01301:02
+#01301:5F
+#01301:0055575A5C6D6A68
+#01304:0A0B0C0D0E0F0G0H02030405060708090A0B0C0D0E0F0G0H
+#01312:00000000000000000000000000000000000000000000000000000000000000000000000000000052000000000000000000000000000000000000000000000000
+#01313:51
+#01314:0000000000530000
+#01315:00000000000000000000000000540000
+
+#01401:00
+#01401:60
+#01401:0056585B5D6E6B69
+#01404:02030405060708090A0B0C0D0E0F0G0H0203040506070809
+#01412:000000000000000000000000004C0000
+#01413:50
+#01414:00000000004D0000
+
+#01501:05
+#01501:64
+#01501:0057595C484A4D51
+#01503:8A87827E
+#01504:02030405060708090A0B0C0D0E0F0G0H02030405060708090A0B0C0D0E0F0G0H
+#01512:00650000000000000000000000000000
+#01514:4E66000000000000
+
+#01601:00
+#01601:00
+#01601:4D51545E000000000000000000000000
+#01603:77726E6A
+#01604:02030405060708090A0B0C0D0E0F0G0H02030405060708090A0B0C0D0E0F0G0H
+
+#01703:563AAA00
+#01704:0200000300000400000500000600000700000800000900000A00000B00000C00000D00000E00000F00000G00000H00000Y000Z0010001100120013001400150016001700180019001A001B001C001D001E001F001G001H001I001J001K001L00
+#01711:0007
+
+#01801:0870090A090A0842
+#01801:1819181918191819
+#01801:2742229122422270
+#01801:0000004200000000
+#01804:1M001N001O001P001Q001R001S001T0000001U00001V00001W00001X00001Y00001Z00002000002100002200002300002400002500002600002700002800002900002A00002B00002C00002D00002E00002F00002G00002H00002I00002J0000
+#01811:20000000200000200043000020000000
+#01812:008D008E008D008E008D008E008D008E
+#01813:0021002100210021
+#01814:00008F0000710000720090008F000000
+#01815:8C000000900000008C00007300009000
+
+#01901:0C7442000D000E000D000E000C004200
+#01901:1A1B1A1B1A1B1A1B
+#01901:22000000220042002200420022430000
+#01901:0000000091760000
+#01904:2K2L2M2N2O2P1U1V1W1X1Y1Z202122232425262728292A2B2C2D2E2F2G2H2I2J
+#01911:20000000200000200043000020000000
+#01912:00930094009300940093009400930094
+#01913:0021002100210021
+#01914:92008F00900000750000000000770078
+#01915:0000738C008C908F
+
+#02001:1042111211121042
+#02001:1C1D1C1D1C1D1C1D
+#02001:2200224222422273
+#02001:00730000
+#02004:2K2L2M2N2O2P1U1V1W1X1Y1Z202122232425262728292A2B2C2D2E2F2G2H2I2J
+#02011:20000000200000002000002000004300
+#02012:00950096009500960095009600950096
+#02013:9221002100210021
+#02014:0093928F907A8F00
+#02015:007500000000007500008C007B009000
+
+#02101:14004200150016001591160022009300
+#02101:1E1F1E1F1E1F1E42
+#02101:2243000022009100224342008F000000
+#02101:0000794200000000
+#02104:2K2L2M2N2O2P1U1V1W1X1Y1Z202122232425262728292A2B2C2D2E2F2G2H2I2J
+#02111:200020002000201F
+#02112:008D008E008D00008E00009000007A00
+#02113:0000002100000000002100000000002100007B0000210097
+#02114:8C00000000009000000000000000000000000000008C00000000000000007C0000000000140000008D00000095000000
+#02115:0000007000000000000000008C00000000000000007000000000000000008C0000000000000092000000000000000000
+
+#02201:0870090A090A0870
+#02201:1819181918191819
+#02201:2742224222422242
+#02201:0000009100000000
+#02204:2K2L2M2N2O2P1U1V1W1X1Y1Z202122232425262728292A2B2C2D2E2F2G2H2I2J
+#02211:20000000200000200043000020000000
+#02212:008D008E008D008E008D008E008D008E
+#02213:0021002100210021
+#02214:00008F0000710000720090008F000000
+#02215:8C000000900000008C00007300009000
+
+#02301:0C7442000D000E000D000E000C004200
+#02301:1A1B1A1B1A1B1A1B
+#02301:22000000220042002200420022430000
+#02301:0000900091760000
+#02304:2K2L2M2N2O2P1U1V1W1X1Y1Z202122232425262728292A2B2C2D2E2F2G2H2I2J
+#02311:20000000200000200043000020000000
+#02312:00930094009300940093009400930094
+#02313:0021002100210021
+#02314:92008F00000000750000000000770078
+#02315:0000738C008C908F
+
+#02401:1042111211121073
+#02401:1C1D1C1D1C1D1C1D
+#02401:2200224222422700
+#02401:00730000
+#02404:2K2L2M2N2O2P1U1V1W1X1Y1Z202122232425262728292A2B2C2D2E2F2G2H2I2J
+#02411:20000000200000002000002000004300
+#02412:00950096009500960095009600950096
+#02413:9221002100210021
+#02414:0093928F907A8F00
+#02415:007500000000007500008C007B009000
+
+#02501:1470008E158D160020431F0027001F00
+#02501:1E8D1F001E001F001E00000020007A00
+#02501:2643000027002600070000001E000000
+#02501:20208E00
+#02504:2K2L2M2N2O2P1U1V1W1X1Y1Z202122232425262728292A2B2C2D2E2F2G2H2I2J
+#02511:0021002100217B21
+#02512:0000009000000000000000000000007C0000000000000097
+#02513:0000000000000000000000008C00000000000000008C0000000000000000000000900000000000008D00000095000000
+#02514:0000000000000000000000000000000000000000007000000000000000008C0000000000000092000000930000000000
+#02515:8C00000079009100009100008F000000
+
+#02601:088D000009000A2009430A0008000000
+#02601:1819181918191819
+#02601:26200020
+#02601:20
+#02601:0021002100210021
+#02601:0044234423442344
+#02601:00
+#02601:00007000007100007200007300007000
+#02604:2K2L2M2N2O2P1U1V1W1X1Y1Z202122232425262728292A2B2C2D2E2F2G2H2I2J
+#02611:00A2008E008D008E008D008E008D008E
+#02612:000000A300A200A300A200A300A200A3
+#02613:009C0091009D8F9D
+#02614:998F9D0099900090
+#02615:8C00909E8C009C00
+
+#02701:0C0000000D000E200D430E000C000000
+#02701:1A1B1A1B1A1B1A1B
+#02701:20000000200000000000000020430000
+#02701:00
+#02701:0021002100210021
+#02701:2344234423442344
+#02701:00
+#02701:00740000730000750000760000770078
+#02704:2K2L2M2N2O2P1U1V1W1X1Y1Z202122232425262728292A2B2C2D2E2F2G2H2I2J
+#02711:00930094009300940093009400930094
+#02712:00A400A500A400A500A400A500A400A5
+#02713:929C009991009000
+#02714:008F9D8C0099009C
+#02715:9F0090009E8C9D8F
+
+#02801:10000000110012001100122010004300
+#02801:1C1D1C1D1C1D1C1D
+#02801:20202000
+#02801:00
+#02801:0021002100210021
+#02801:2344234423442344
+#02801:00
+#02801:007500007300007500007A007B007300
+#02804:2K2L2M2N2O2P1U1V1W1X1Y1Z202122232425262728292A2B2C2D2E2F2G2H2I2J
+#02811:00950096009500960095009600950096
+#02812:00A000A100A000A100A000A100A000A1
+#02813:9F00929C008C9C00
+#02814:929A008F9D008F9D
+#02815:00939F0090990090
+
+#02901:14000000000015000016000015000016000014008D000097
+#02901:1E1F1E1F1E1F1E1F
+#02901:2043000020000000A643000020000000
+#02901:0020
+#02901:0021002100210021
+#02901:2344234400000000
+#02901:00
+#02901:00700000790000700000000000000000
+#02904:2K2L2M2N2O2P1U1V1W1X1Y1Z202122232425262728292A2B2C2D2E2F2G2H2I2J
+#02911:0000008D00000000008E00000000008D00000000000000008E0000000000000000900000000092000000000095000000
+#02912:009A009B009A009900008C008F007A00
+#02913:8C009C000000008C009100007B009300
+#02914:0090999E23442344
+#02915:99008C91007C0000
+
+#03001:088D008E098D0A8E098D0A00088D008E
+#03001:18001900180019201843190018001900
+#03001:20200020
+#03001:26
+#03001:0021002100210021
+#03001:0044234423442344
+#03001:00
+#03001:00007000007100007200007300007000
+#03004:2K2L2M2N2O2P1U1V1W1X1Y1Z202122232425262728292A2B2C2D2E2F2G2H2I2J
+#03011:009C0000009D9C9D
+#03012:00A200A300A200A300A2008E00A200A3
+#03013:008F9D0099908F90
+#03014:9900000090009E008C0000A300000000
+#03015:8C00009100000000
+
+#03101:0C939C940D930E200D430E940C930094
+#03101:1A001B001A001B941A931B001A001B00
+#03101:20000000200000000000000020430000
+#03101:00
+#03101:0021002100210021
+#03101:2344234423442344
+#03101:00
+#03101:00740000730000750000760000770078
+#03104:2K2L2M2N2O2P1U1V1W1X1Y1Z202122232425262728292A2B2C2D2E2F2G2H2I2J
+#03111:928F9D0000009D00
+#03112:00A400A500A400A500A400A500A400A5
+#03113:0000909900999000
+#03114:0000008C9E8C009C
+#03115:000000009100008F
+
+#03201:10950096119512961195129610954396
+#03201:1C001D001C001D001C001D201C001D00
+#03201:20202026
+#03201:00
+#03201:0021002100210021
+#03201:2344234423440000
+#03201:00
+#03201:007500007300007500007A007B007300
+#03204:2K2L2M2N2O2P1U1V1W1X1Y1Z202122232425262728292A2B2C2D2E2F2G2H2I2J
+#03211:009A009C00009C00
+#03212:00A000A100A000A100A000A100A000A1
+#03213:9F939F8F9D008F9D
+#03214:9200920090990090
+#03215:00000000008C0000
+
+#03301:148D008E158D169920007C008F000000
+#03301:1E1F1E1F1E1F1E1F
+#03301:2020A600
+#03301:0007
+#03301:00
+#03301:00
+#03301:00
+#03301:00700000790000700000000000000000
+#03301:008E
+#03304:2K2L2M2N2O002P002Q002R002S002T002U002V002W002X002Y002Z0030003100
+#03311:210000000000210000000000210000000000210000000000000000910000000000000000000092000000930000000000
+#03312:0000009A00000000009B00000000009A00000000008C0000000000000000000000900000250000000000250000009700
+#03313:00450045004500452400240020007A00
+#03314:99009C0099009E000046004600470047
+#03315:8C00009000008C00009100000000008C00007B008D009500
+
+#03404:3200000000003300000000003400000000003500000000003600000000003700000000003800000000003900000000003A00000000003B00000000003C0000003D0000003E0000003F0000003G0000003H0000003I0000003J000000003K0000
+#03411:20000020
+#03412:00000027
+#03413:26000021
+#03414:00000000000000000000002500000000
+#03415:2100000000240000
+
+#03501:26007D00220009002280420080000A00
+#03501:7D420B4200002242
+#03501:00
+#03501:00
+#03501:00
+#03501:00
+#03501:00
+#03501:00
+#03501:00
+#03501:00
+#03501:00280000
+#03504:3L3M3N3O3P3Q3R3S3T3U3V3W3X3Y3Z404142434445464748494A4B4C4D4E4F4G
+#03511:20202020
+#03512:1819181918191819
+#03513:0021002100210021
+#03514:09000A00007F00000A00800009007F00
+#03515:000000007E00007D00000B000000007E
+
+#03601:22007D0022000D002280420022004200
+#03601:7D420F420000800E
+#03604:3L3M3N3O3P3Q3R3S3T3U3V3W3X3Y3Z404142434445464748494A4B4C4D4E4F4G
+#03611:20202020
+#03612:00000000007F00000000800000007F00
+#03613:0D2100210E210021
+#03614:1A1B1A1B1A1B1A1B
+#03615:00000E007E00007D00000F000D00007E
+
+#03701:22004200220042002280420080001200
+#03701:7D7D131100002242
+#03704:3L3M3N3O3P3Q3R3S3T3U3V3W3X3Y3Z404142434445464748494A4B4C4D4E4F4G
+#03711:20202020
+#03712:1C1D1C1D1C1D1C1D
+#03713:0021002100210021
+#03714:11001200007F00001200800000007F00
+#03715:000000007E00007D000013001100007E
+
+#03801:22007D00170015002280420080001F45
+#03801:7D42224200002200
+#03804:3L3M3N3O3P3Q3R3S3T3U3V3W3X3Y3Z404142434445464748494A4B4C4D4E4F4G
+#03811:20202020
+#03812:1E000000007F00000000800000007F00
+#03813:0021002116210021
+#03814:150016007E00007D000017001500007E
+#03815:001F1E1F1E1F1E16
+
+#03901:7D004200220009002280420022004200
+#03901:277D0B420000800A
+#03901:00
+#03901:00
+#03901:00
+#03901:00
+#03901:00
+#03901:00
+#03901:00
+#03901:00
+#03901:00000000000000000000000000000029000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+#03904:3L00003M00003N00003O00003P00003Q00003R00003S00003T00003U0000QG000000000000000000QH00000000000000QI0000000000QJ0000000000QK0000000000QL0000000000QM0000000000QN0000000000QO0000000000QP0000000000
+#03911:20202020
+#03912:1819181918191819
+#03913:0021002100210021
+#03914:00000000007F00000A00800000007F00
+#03915:09000A007E00007D00000B000900007E
+
+#04001:220042000F000D002280420022000E00
+#04001:7D7D224200008042
+#04004:QQ0000QR0000QS0000QT0000QU0000QV0000QW00QX00QY00QZ00R000R100R200R300R400R500R600R700R800R900RA00
+#04011:20202020
+#04012:00000000007F00000000800000007F00
+#04013:0D2100210E210021
+#04014:1A1B1A1B1A1B1A1B
+#04015:00000E007E00007D00000F000D00007E
+
+#04101:22004200220042002280420022001F00
+#04101:7D7D171500008042
+#04104:RBQWQXQYQZR0R1R2R3R4R5R6R7R8R9RARBQWQXQYQZR0R1R2
+#04111:20202020
+#04112:1E000000007F00000000800000007F00
+#04113:0021002116210021
+#04114:150016007E00007D0000170015001600
+#04115:00001F001E001F001E001F001E00007E
+
+#04201:2242224222420000
+#04201:7D7D0F0D07000000
+#04204:R3R4R5R6R7R8R9RARBQWQXQYQZR0R1R2R3R4R5R6R7R8R9RA
+#04211:20000000200000002000000020000045
+#04212:00000000007F00000000800026007F00
+#04213:0D00210000002100000021000045007E
+#04214:1A1B1A1B1A1B1A1B
+#04215:00000E007E00007D0080000080002100
+
+#04301:2719201920192019
+#04301:20181818
+#04301:18
+#04301:00
+#04301:00
+#04301:00
+#04301:00
+#04301:00
+#04301:00
+#04301:00
+#04301:002A0000
+#04304:RBQWQXQYQZR0R1R2R3R4R5R6R7R8R9RARBQWQXQYQZR0R1R2
+#04311:0021002100210021
+#04312:09000A00007F00000A00800000007F00
+#04313:000000007E00007D00000B000900007E
+#04314:0044234423442344
+#04315:7D007D000B0009000080000080000A00
+
+#04401:20000000207F00002000800020007F00
+#04404:R3R4R5R6R7R8R9RARBQWQXQYQZR0R1R2R3R4R5R6R7R8R9RA
+#04411:0D2100210E210021
+#04412:1A1B1A1B1A1B1A1B
+#04413:00000E007E00007D00000F000D00007E
+#04414:2344234423442344
+#04415:7D007D000F000D000080000080000E00
+
+#04501:201D201D201D201D
+#04501:1C1C1C1C
+#04504:RBQWQXQYQZR0R1R2R3R4R5R6R7R8R9RARBQWQXQYQZR0R1R2
+#04511:0021002100210021
+#04512:11001200007F00001200800000007F00
+#04513:000000007E00007D000013001100007E
+#04514:2344234423442344
+#04515:7D007D00130011000080000080001200
+
+#04601:20000000207F00002000800020007F45
+#04601:1E
+#04604:4X4Y4Z505152535455565758595A5B5C4H4I4J4K4L4M4N4O4P4Q4R4S4T4U4V4W
+#04611:0021002116210021
+#04612:150016007E00007D000017001500007E
+#04613:001F1E1F1E1F1E1F
+#04614:2344234423442300
+#04615:7D007D00170015000080000080001600
+
+#04701:2619181918191819
+#04701:20202020
+#04701:18
+#04701:00
+#04701:00
+#04701:00
+#04701:00
+#04701:00
+#04701:00
+#04701:00
+#04701:002B0000
+#04704:4X4Y4Z505152535455565758595A5B5C4H4I4J4K4L4M4N4O4P4Q4R4S4T4U4V4W
+#04711:0021002100210021
+#04712:00000000007F00000A00800000007F00
+#04713:09000A007E00007D00000B000900007E
+#04714:0044234423442344
+#04715:7D007D000B0009000080000080000A00
+
+#04801:20000000207F00002000800020007F00
+#04804:5D5E5F5G5H5I5J5K5L5M5N5O5P5Q5R5S0I0J0K0L0M0N0O0P0Q0R0S0T0U0V0W0X
+#04811:0D2100210E210021
+#04812:1A001B001A001B001A001B001A00007E
+#04813:00000E007E00007D00000F000D000E00
+#04814:2344234423442344
+#04815:7D007D000F000D000080000080001B00
+
+#04901:20000000207F00002000800026007F00
+#04901:00000020
+#04904:5T5U5V5W5X5Y5Z606162636465666768696A6B6C6D6E6F6G6H6I6J6K6L6M6N6O
+#04911:3821002139210021
+#04912:000039007E00007D00003A003800007E
+#04913:7D007D003A0038000080000080003900
+#04914:2344234423440000
+#04915:3E3F3E3F3E3F3E3F
+
+#05001:3B000000207F00000700000020000000
+#05001:20002025
+#05004:6P6Q6R6S6T6U6V6W6X6Y6Z707172737475767778797A7B7C7D7E7F7G7H7I7J7K
+#05011:2121212124240041
+#05012:00003C007E00007D0046004600002500
+#05013:00450045004500450000800000470047
+#05014:404140414041407F
+#05015:7D007D003D003B00008000008000007E
+
+#05101:0B090A0B090A0B09
+#05101:1819181918191819
+#05101:00000000200000200043000020000000
+#05101:0021002100210021
+#05101:0042224222422242
+#05101:00
+#05101:00
+#05101:00
+#05101:00
+#05101:00
+#05101:2C
+#05104:7L0000007M007N007O007P007Q007R007S007T007U007V007W007X007Y007Z0000800000GB000000GA0000G90000G800
+#05111:2000008200820082
+#05112:82
+#05113:0084870000008700
+#05114:2783
+
+#05201:0F0D0E0F0D0E0F0D
+#05201:1A1B1A1B1A1B1A1B
+#05201:20000000200000200043000020430000
+#05201:0021002100210021
+#05201:2242224222422242
+#05204:00G70000G60000G50000G40000G30000G2000000G100G000FZ00FY00FX00FW00FV00FU00FT00FS008100008200008300
+#05212:8A00008A008A008A
+#05213:0086000000000000
+#05214:00880088
+#05215:007B
+
+#05301:1311121311121311
+#05301:1C1D1C1D1C1D1C1D
+#05301:20000000200000002000002000004300
+#05301:0021002100210021
+#05301:2242224222420000
+#05304:008400008500008600008700008800008900008A00008B00008C00008D00008E00008F00008G00008H008I008J008K00
+#05311:8100008100812781
+#05312:008A000000000000
+#05313:00860086
+#05314:0089
+
+#05401:1715161715161715
+#05401:1E1F1E1F1E1F1E1F
+#05401:20430000200000002043000020000000
+#05401:0021002100210021
+#05404:8L8M8N8O8P8Q8R8S8T8U8V8W8X8Y8Z909192939495969798
+#05411:2600002600002700
+#05413:8400008400840084
+#05414:0087890000008900
+#05415:0085
+
+#05501:0B090A0B090A0B09
+#05501:1819181918191819
+#05501:20000000200000200043000020000000
+#05501:0021002100210021
+#05501:0042224222422242
+#05501:00
+#05501:00
+#05501:00
+#05501:00
+#05501:00
+#05501:2D
+#05504:99009A009B009C00009D00009E00009F00009G00009H00009I00009J00009K00009L00009M00009N00009O00009P0000
+#05511:26
+#05512:8200008200820082
+#05513:0084000000000000
+#05514:00870087
+#05515:0083
+
+#05601:0F0D0E0F0D0E0F0D
+#05601:1A1B1A1B1A1B1A1B
+#05601:20000000200000200043000020430000
+#05601:0021002100210021
+#05601:2242224222422242
+#05604:9QVKVLVMVNVOVPVQVRVQVPVOVNVMVLVK
+#05613:8A00008A008A008A
+#05614:0086000000000000
+#05615:00887B88
+
+#05701:1311121311121311
+#05701:1C1D1C1D1C1D1C1D
+#05701:20000000200000002000002000004300
+#05701:0021002100210021
+#05701:0042224222422242
+#05704:GOGPGQGRGSGTGUGVGWGXGYGZH0H1H2H3
+#05711:8100008100810000
+#05712:008A000000000000
+#05713:27860086
+#05714:0000000089000081
+
+#05801:1715161707000000
+#05801:1E1F1E1F1E1F1E1F
+#05801:20430000200000002043000020000000
+#05801:0021002100210021
+#05801:0042224222420000
+#05804:A8A9AAABACADAEAFAGAHAIAJAKALAMANAOAPAQARASATAUAV
+#05811:00000027
+#05812:26
+#05813:8400008400840084
+#05814:0087000085000000
+#05815:00890089
+
+#05901:0B090A0B090A0B09
+#05901:1819181918191819
+#05901:20000000200000200043000020000000
+#05901:0021002100210021
+#05901:00
+#05901:0044234423442344
+#05901:00
+#05901:00
+#05901:00
+#05901:00
+#05901:2E
+#05904:AWAXAYAZB0B1B2B3B4B5B6B7B8B9BABBBCBDBEBFBGBHBIBJ
+#05911:8200008200820082
+#05912:0084000000000000
+#05913:8400878400848784
+#05914:0087000083000000
+#05915:26838583
+
+#06001:0F0D0E0F0D0E0F0D
+#06001:1A1B1A1B1A1B1A1B
+#06001:20000000200000200043000020430000
+#06001:0021002100210021
+#06001:00
+#06001:2344234423442344
+#06004:BKBLBMBNBOBPBQBRBSBTBUBVBWBXBYBZC0C1C2C3C4C5C6C7
+#06011:0000008A008A0000
+#06012:8A00880000008886
+#06013:008600867B860000
+#06014:867B007B
+#06015:008800007C00008A
+
+#06101:1311121311121311
+#06101:1C1D1C1D1C1D1C1D
+#06101:20000000200000002000002000002000
+#06101:0021002100210021
+#06101:00
+#06101:2344234423442344
+#06104:C8C9CACBCCCDCECFCGCHCICJCKCLCMCNCOCPCQCRCSCTCUCV
+#06111:8100008100810081
+#06112:008A000000000000
+#06113:8A00868A008A868A
+#06114:0086000089000000
+#06115:00887B88
+
+#06201:1715161715161715
+#06201:1E1F1E1F1E1F1E1F
+#06201:20430000200000002043000020000000
+#06201:0021002100210021
+#06201:00
+#06201:2344234423442344
+#06204:CWCXCYCZD0D1D2D3D4D5D6D7D8D9DADBDCDDDEDFDGDHDIDJ
+#06212:840000008B000084
+#06213:0087008400840000
+#06214:8700890000008987
+#06215:0089858785878500
+
+#06301:0B090A0B090A0B09
+#06301:1819181918191819
+#06301:20202020
+#06301:27
+#06301:00
+#06301:00
+#06301:00
+#06301:8284878283828782
+#06301:8487838485848384
+#06301:00
+#06301:2F
+#06304:DKDLDMDNDODPDQDRDSDTDUDVDWDXDYDZE0E1E2E3E4E5E6E7
+#06311:4521452145214521
+#06315:0044234423442344
+
+#06401:0F0D0E0F0D0E0F0D
+#06401:1A1B1A1B1A1B1A1B
+#06401:20202020
+#06401:00
+#06401:00
+#06401:00
+#06401:00
+#06401:8A86888A7B8A888A
+#06401:86887B867C867B86
+#06404:E8E9EAEBECEDEEEFEGEHEIEJEKELEMENEOEPEQERESETEUEV
+#06411:4521452145214521
+#06415:2344234423442344
+
+#06501:1311121311121311
+#06501:1C1D1C1D20812081
+#06501:200020001C1D1C1D
+#06501:00000000898A888A
+#06501:00007B86
+#06501:00
+#06501:00
+#06501:818A868100000000
+#06501:8A86888A00000000
+#06504:EWEXEYEZF0F1F2F3F4F5F6F7F8F9FAFBFCFDFEFFFGFHFIFJ
+#06511:2145214500000000
+#06512:00000000000000000045004500450045
+#06514:0000000021212121
+#06515:2344234400000000
+
+#06601:1715161707000000
+#06601:2000200020842084
+#06601:848989841E1F1E1F
+#06601:8787858700870087
+#06601:1E1F1E1F85008900
+#06601:00008B85
+#06601:00
+#06601:00
+#06601:00
+#06601:00
+#06601:00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000003000000000000000000000000000000000
+#06604:FK000000FL000000FM000000FN000000FO000000FP000000FQ000000FR0000FS00FT00FU00FV00FW00FX00FY00FZ00G000G100G200G300G400G500G600G700G800G900GA00GB00GC00GD00GE00GF00GG00GH00GI00GJ00GK00GL00GM00GN0000
+#06612:00450045004500450000000000000000
+#06613:00000000000000002446244625472547
+#06614:2121212100000000
+
+#06701:27007D0022430B002280420080434200
+#06701:7D00004200002209
+#06704:RJ0000000000000000000000000000000000TCTDTETFTGTH
+#06711:20202020
+#06712:1819181918191819
+#06713:00210A2100210021
+#06714:00000900007F000009000A0000007F00
+#06715:0B0042007E00007D000080000B00007E
+
+#06801:2200420022430F002280420080434200
+#06801:7D7D00420000220D
+#06804:TITJTKTLTMTNTOTPTQTRTSTTTUTVTWTXTYTZU0U1U2U39S9T
+#06811:20202020
+#06812:00000000007F00000000800000007F00
+#06813:0F210E210D210021
+#06814:1A1B1A1B1A1B1A1B
+#06815:00000D007E00007D00000E000F00007E
+
+#06901:22004200224342002280420022431545
+#06901:7D7D001700008000
+#06901:00000034
+#06904:9U0000009V0000009W0000009X0000009Y0000009Z000000A0000000A1000000A2000000A3000000A4000000A5000000A6000000A7000000UK000000UL000000UM000000UN000000UO0000UP0000UQ0000UR0000US0000UT0000UU0000UV0000
+#06911:20202020
+#06912:1E000000007F00000000800000007F00
+#06913:0021162115210021
+#06914:170015007E00007D000016001700007E
+#06915:001F1E1F1E1F1E1F
+
+#07001:7D437D00220017452243420080001545
+#07001:22004200350000000080000022000000
+#07001:00
+#07001:00
+#07001:00
+#07001:00
+#07001:00
+#07001:00
+#07001:00
+#07001:00
+#07001:00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000003100000000000000000000000000000000
+#07004:UWUXUYUZV0V1V2V3V4V5V6V7V8V9VAVBVCVDVEVFVGVHVIVJTSTTTUTVTWTXTYTZ
+#07011:20202020
+#07012:17000000007F00001500800000007F00
+#07013:0021162100210021
+#07014:000015007E00007D000016001700007E
+#07015:1E1F1E1F1E1F1E1F
+
+#07101:7D00420022430B002280420080430900
+#07101:277D004200002242
+#07104:U0U1U2U3U4U5U6U7U8U9UAUBUCUDUEUFUGUHUIUJUKULUMUNTSTTTUTVTWTXTYTZ
+#07111:20202020
+#07112:1819181918191819
+#07113:00210A2100210021
+#07114:00000900007F000009000A0000007F00
+#07115:0B0000007E00007D000080000B00007E
+
+#07201:22007D00224342002280420080430D00
+#07201:7D42000F00002242
+#07204:U0U1U2U3U4U5U6U7U8U9UAUBUCUDUEUFUGUHUIUJUKULUMUNTSTTTUTVTWTXTYTZ
+#07211:20202020
+#07212:00000000007F00000000800000007F00
+#07213:0F210E210D210021
+#07214:1A1B1A1B1A1B1A1B
+#07215:00000D007E00007D00000E000F00007E
+
+#07301:22007D00224317002280420080431500
+#07301:7D004200000042000000000027007F7E
+#07301:00000000000000000000000000000045
+#07304:U00000U10000U20000U30000U40000U50000U60000U70000U80000U90000UA0000UB0000UC0000UD0000UE0000UF0000UG0000UH0000UI0000UJ0000UK0000UL0000UM0000UN0000TS0000TT0000TU0000TV0000TW0000TX0000TY00000000HK
+#07311:20202020
+#07312:1E000000007F00000000800000008D00
+#07313:0021162115210021
+#07314:170015007E00007D000016001700008F
+#07315:001F1E1F1E1F1E1F
+
+#07401:17009800000015000000000016000000000017008F0000009E00004300001600000000001700000000001500007E0000
+#07401:8C437D008C008C00008080009E002100
+#07401:268C0026009E279E
+#07401:00000080
+#07401:00
+#07401:00
+#07401:00
+#07401:00
+#07401:00
+#07401:00
+#07401:00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000003200000000000000000000000000000000
+#07404:000000H400HL000000H400HM000000H400HN000000H400HO000000H400HP000000H400HQ000000H400HR000000H400HS000000RJ00HT000000RJ00HU000000RJ00HV000000RJ00HW000000RJ0000HX0000RJ0000HY0000RJ0000HZ0000000000
+#07411:200000208D00200000209A00
+#07412:7D0000008D00000000008D000000007F0000000000008D00000000009A00000000009A000000000000007F0000009A00
+#07413:00000000000021000000000000008F000000210000000000150000000000210000000000000000450000000000450000
+#07414:00000000000000008F0000007E00000000000000007D000000009C00000000009C00000000009C00000000009C000000
+#07415:1E1F1E1F1E1F1E1F
+
+#07501:18007D0023430B002380440023434400
+#07501:7D44004400008009
+#07501:26
+#07504:U0U1U2U3U4U5U6U7U8U9UAUBUCUDUEUFUGUHUIUJUKULUMUNTSTTTUTVTWTXTYTZ
+#07511:20202020
+#07512:0019181918191819
+#07513:00210A2100210021
+#07514:00000900007F000009000A0000007F00
+#07515:0B0000007E00007D000080000B00007E
+
+#07601:23004400234300002000800020437F00
+#07601:7D007D00207F00000000000000000000
+#07604:U00000U10000U20000U30000U40000U50000U60000U70000U80000U90000UA0000UB0000UC0000UD0000UE0000UF0000UG0000UH0000UI0000UJ0000UK000000W7000000W6000000W5000000W4000000W3000000W2000000W1000000W0000000
+#07611:20000E210D210021
+#07612:00001A1B1A1B1A1B
+#07613:0F0021007E00007D00000E000F00007E
+#07614:1A1B004423442344
+#07615:00000D0000000F000080000080000D00
+
+#07701:27000000204300002000800036437F45
+#07701:20000000007F00000000000020000000
+#07701:1E
+#07704:VZ000000VY000000VX000000VW000000VV000000VU000000VT000000VS000000TS000000TT0000TU0000TV0000TW0000TX0000TY0000TZ0000U00000U10000U20000U30000U40000U50000V50000V60000V70000V80000V90000VA0000VB0000
+#07711:0021162115210021
+#07712:170015007E00007D000016001700007E
+#07713:001F1E1F1E1F1E1F
+#07714:0044234423442300
+#07715:7D007D00000017000080000080001500
+
+#07801:17430000207F00452043800020007F45
+#07801:20371500
+#07801:00
+#07801:00
+#07801:00
+#07801:00
+#07801:00
+#07801:00
+#07801:00
+#07801:00
+#07801:00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000003300000000000000000000000000000000
+#07804:VCVDVEVFVGVHVIVJUOUPUQURUSUTUUUVUWUXUYUZV0V1V2V3UAUBUCUDUEUFUGUH
+#07811:0021162100210021
+#07812:000015007E00007D000016001700007E
+#07813:1E1F1E1F1E1F1E1F
+#07814:2344230023442300
+#07815:7D007D00000017000080000080001500
+
+#07901:18001900204319002000190018431900
+#07901:20181820
+#07901:26
+#07904:UIUJUKULUMUNTSTTTUTVTWTXTYTZU0U1U2U3U4U5U6U7U8U9UAUBUCUDUEUFUGUH
+#07911:00210A2100210021
+#07912:00000900007F000009000A0000007F00
+#07913:0B0000007E00007D000080000B00007E
+#07914:0044234423442344
+#07915:7D007D0000000B000080000080000900
+
+#08001:20000000204300002000800020437F00
+#08001:27000000007F00000000000000000000
+#08004:UIUJUKULUMUNTSTTTUTVTWTXTYTZU0U1U2U3U4U5U6U7U8U9UAUBUCUDUEUFUGUH
+#08011:0F210E210D210021
+#08012:1A1B1A1B1A1B1A1B
+#08013:00000D007E00007D00000E000F00007E
+#08014:0044234423442344
+#08015:7D007D0000000F000080000080000D00
+
+#08101:20000000204300002000800027001500
+#08101:1E000000007F00000000000020000000
+#08101:26
+#08104:UI0000UJ0000UK0000UL0000UM0000UN0000TS0000TT0000TU0000TV0000TW0000TX0000TY0000TZ00000000I0000000I1000000I2000000I3000000I4000000I5000000I6000000I7000000I8000000I9000000IA000000IB000000IC000000
+#08111:0021162115211721
+#08112:170015007E00007D0000160000450045
+#08113:001F1E1F1E1F1E1F
+#08114:004423442344007F
+#08115:7D007D0000001700008000008000007E
+
+#08201:6743000000000000
+#08201:2067000000000000
+#08204:IDIEIFIGIHIIIJIKILIMINIOIPIQIRISITIUIVIWIXIYIZJ0
+#08211:2145002000430043
+#08212:0000006707670067
+#08213:1E1F002100210021
+#08214:1516001500000000
+#08215:0000001F001F001F
+
+#08301:088D008E098D0A8E098D0A8E088D008E
+#08301:18001900180019201843190018001900
+#08301:20200020
+#08304:J1J2J3J4J5J6W8W9WAWBWCWDWEWFWGWHWIWJWKWLWMWNWOWP
+#08311:0021002100210021
+#08312:00008F0000710000720090008F000000
+#08313:27000000900000008C00007300009000
+#08314:0042224222422242
+#08315:8C70009100000070
+
+#08401:0C9300940D930E200D430E940C930094
+#08401:1A001B001A001B941A931B001A001B00
+#08401:20000000200000000000000020430000
+#08404:WQ000000WR000000WS000000WT000000WU000000WV000000WW000000WX000000WY000000WZ000000X0000000X1000000X2000000X3000000X40000X50000X60000X70000X80000X90000XA0000XB0000XC0000XD0000XE0000XF0000XG0000XH
+#08411:0021002100210021
+#08412:92008F00900000750000000000770078
+#08413:0000738C008C908F
+#08414:2242224222422242
+#08415:00740000000000009100760000000000
+
+#08501:10950096119512961195129610954396
+#08501:1C001D001C001D001C001D201C001D00
+#08501:20202000
+#08504:0000XI0000XJ0000XK0000XL0000XM0000XN0000XO0000XP0000XQ0000XR0000XS0000XT0000XU0000XV0000XW0000XX0000XY0000XZ000000000000J7000000J8000000J9000000JA000000JB000000JC000000JD000000JE000000JF000000
+#08511:9221002100210021
+#08512:0093928F907A7B90
+#08513:007500000000007500008C008F007300
+#08514:2242224222422242
+#08515:00730000
+
+#08601:148D008E158D16001500169014007A00
+#08601:1E1F1E1F1E1F1E1F
+#08601:20430000200000008E43000020000000
+#08601:0020
+#08604:JGJHJIJJJKJLJMJNJOJPJQJRJSJTJUJVJWJXJYJZK0K1K2K3
+#08611:0021002100210021
+#08612:0000000000009000000000000000000000000000008C00000000000000008C00000000007B0000008D00000000009700
+#08613:8C00000000000000000000008C0000000000000000700000000000910000000000000000000092000000000095000000
+#08614:2242224222422242
+#08615:007000007900910000007C008F009300
+
+#08701:088D008E098D0A8E098D0A8E088D008E
+#08701:18001900180019201843190018001900
+#08701:20200020
+#08701:27
+#08704:K4K5K6K7K8K9KAKBKCKDKEKFKGKHKIKJKKKLKMKNKOKPKQKR
+#08711:002100218C210021
+#08712:00008F0000710000720090008F000000
+#08713:8C000000900000000000007300009000
+#08714:0042224222422242
+#08715:0070009100000070
+
+#08801:0C9300940D930E200D930E940C930094
+#08801:1A001B001A001B941A431B001A001B00
+#08801:20000000200000000000000020430000
+#08804:KS000000KT000000KU000000KV000000KW000000KX000000KY000000KZ000000L0000000L1000000L2000000L3000000L40000YO0000YP0000YQ0000YR0000YS0000YT0000YU0000YV0000YW0000YX0000YY0000YZ0000Z00000Z10000Z20000
+#08811:0021002100210021
+#08812:92008F00900000750000000000770078
+#08813:0000738C008C908F
+#08814:2242224222422242
+#08815:00740000000000009100760000000000
+
+#08901:10950096119512961195129610954396
+#08901:1C001D001C001D001C001D201C001D00
+#08901:20202027
+#08904:Z300L5L6L7L8L9LALBLCLDLELFLGLHLILJLKLLLMLNLOLPLQ
+#08911:9221002100210021
+#08912:0093928F907A8F00
+#08913:007500000000007500008C0000009000
+#08914:2242224222427B00
+#08915:0000730000000073
+
+#09001:1400008D00000000008E00001500008D00001600000000000700000000000000000000002000000000007A0000009700
+#09001:1E1F1E1F1E1F1E1F
+#09001:26430000270026002043000027000000
+#09001:20208E00
+#09004:LR000000LS000000LT000000LU000000LV000000LW000000LX000000LY000000LZ000000Z40000Z50000Z60000Z70000Z80000Z900000000ZA000000ZB000000ZC000000ZD000000ZE000000ZF000000ZG000000ZH000000ZI000000ZJ000000
+#09011:0021002100210021
+#09012:000000000000900000000000000000000000000000000000000000000000000000900000000000008D00000095000000
+#09013:8C00000000000000000000008C00000000000000008C00000000000000008C0000000000000092000000930000000000
+#09014:0070000000000070009100007B000000
+#09015:00007991007C8F00
+
+#09101:08009C0009710A2009000A0008009D00
+#09101:1819181918191819
+#09101:208F2000999D2000
+#09101:269D008F
+#09101:9921002100219C21
+#09101:0044234423442344
+#09101:00
+#09101:0070000072000070
+#09104:M0M1M2M3M4M5M6M7M8M9MAMBMCMDMEMFMGMHMIMJMKMLMMMNMOMPMQMRMSMTMUMV
+#09111:008D008E008D008E008D008E008D008E
+#09112:00A200A300A200A300A200A300A200A3
+#09113:8C00009E00900000
+#09114:00000000900000008C00007300009000
+#09115:00000000000091000043000000000000
+
+#09201:0C939C940D930E940D430E940C939C94
+#09201:1A001B001A001B751A931B001A001B00
+#09201:20200020
+#09201:9F9D009D
+#09201:0021002100210021
+#09201:2344234423442344
+#09201:00
+#09201:0000730000760000
+#09204:MWMXMYMZN0N1N2N3N4N5N6N7N8N9NANBNCNDNENFNGNHNINJ
+#09211:00A400A500A400A500A400A500A400A5
+#09212:00008F00000000200000990000008F00
+#09213:920090999E009000
+#09214:0000000000008C0000008C0000430078
+#09215:00740000000000009100000000770000
+
+#09301:10A000A111A012A111A01296109500A1
+#09301:1C951D961C951D961C951DA11CA01D96
+#09301:2000200020000043
+#09301:00
+#09301:0021002100210021
+#09301:2344234423442344
+#09301:00
+#09301:00007300007A7B73
+#09304:NKNLNMNNNONPNQNRNSNTNUNVNWNXNYNZO0O1O2O3O4O5O6O7
+#09311:000000009F0000000000002000000000
+#09312:9F00929C00009C00
+#09313:929A008F9D008F9D
+#09314:0093000090990090
+#09315:007500000000007500008C0000000000
+
+#09401:1400008D00009C00008E00001500008D0000160000000000150000000000160000900000140000008D00000000009700
+#09401:1E1F1E1F1E1F1E1F
+#09401:2000000020000000A6437C007B007A00
+#09401:00002020
+#09401:002100218E000000
+#09401:2344234400000000
+#09401:00
+#09401:00790000
+#09404:O8O9OAOBOCODOEOFOGOHOIOJOKOLOMONOORKRLRMRNRORPRQ
+#09411:009A009B009A00700000210000002100
+#09412:9900000000009000000000009900000000000000009900000000000000008C0000000000000092000000000000000000
+#09413:0000007000000000000000008C00000000000000008C0000000000910000000000000000000000000000000095000000
+#09414:0043000000009E002300440023004400
+#09415:8C00009100008F93
+
+#09501:08009C0009000A2009430A0008001900
+#09501:2019181918191800
+#09501:26002044009D9C00
+#09501:00230020
+#09501:00
+#09501:0000000023000044
+#09501:00
+#09501:00007000007100007200007300007000
+#09504:RRRSRTRURVRWRXRYRZS0S1S2S3S4S5S6S7RCRDRERFRGRHRI
+#09511:008D008E008D008E008D008E008D008E
+#09512:998F9D9E99908F9D
+#09513:00A200A300A200A300A200A300A200A3
+#09514:8C4490218C442390
+#09515:1821009100210045
+
+#09601:0C939C940D930E940D930E940C939C94
+#09601:1A1B1A1B1A1B1A1B
+#09601:2000204520452000
+#09601:9F000021
+#09601:00
+#09601:2300004423440000
+#09601:00
+#09601:00000000730000750000760000770078
+#09604:RJTBTAT9T8T7T6T5T4T3T2T1T0SZSYSXSWOPOQOROSOTOUOV
+#09611:008F9D9900999D8F
+#09612:00A400A500A400A500A400A500A400A5
+#09613:00740000900000009E00000090000000
+#09614:9244238C218C2344
+#09615:2145210091000045
+
+#09701:10959A96119512961195129610950096
+#09701:1C001D001C001D001C001D001C001D45
+#09701:2000200020212000
+#09701:009F219C
+#09701:00
+#09701:23
+#09701:00
+#09701:007500007300007500007A007B007300
+#09704:OWOXOYOZP0P1P2P3S8S9SASBSCSDSESFSGSHSISJSKSLSMSN
+#09711:00A000A100A000A100A000A100A000A1
+#09712:0000000092009C00004500008F009D00
+#09713:9F00930000008F009D00004500450000
+#09714:9244234490990090
+#09715:21452145008C2121
+
+#09801:1445008E154516450700000000000000
+#09801:1E8D1F001E8D1F00A6001F001E001F00
+#09801:20000000200000002446244620000000
+#09801:000000001E7C7B7A
+#09801:00000000000000002000000025472547
+#09801:00
+#09801:00
+#09801:00700000790000700000000000000000
+#09804:SOSPSQSRSSSTSUSVP4P5P6P7P8P9PAPBPCPDPEPFPGPHPIPJ
+#09811:0000009C000099000021000000000000000000008D000000
+#09812:0000009A00000000009B00000000009A0000000000990000000000000000000000900000000092000000930000000000
+#09813:9900009000002100009E00008E00008C00008F0000009500
+#09814:2100000000002100000000008C00000000000000008C0000000000910000000000000000000000000000000000009700
+#09815:8C000045000091000000000000000000
+
+#09901:26
+#09901:DA
+#09901:20
+#09904:PKPLPMPNPOPPPQPRPSPTPUPVPWPXPYPZ
+#09911:D9
+#09912:21
+#09915:D8
+
+#10004:Q0Q1Q2Q3Q4Q5Q6Q7Q8Q9QAQBQCQDQEQF
+
+#10104:ZK000000ZL000000ZM000000ZN000000ZO000000ZP000000ZQ000000ZR000000ZS000000ZT000000ZU000000ZV000000ZW000000ZX000000ZY000000ZZ0000000000000000000000000000000000000000000000Y00000Y10000Y20000Y30000
+#10111:0000000000000020
+#10114:00000000000000000000000000002425
+
+#10204:Y4Y5Y6Y7Y8Y9YAYBYCYDYEYFYGYHYIYJYKYLYMYNH5H6H7H8H9HAHBHC00000000
+#10211:43
+#10212:26
+#10213:21
+
+
